@@ -1,0 +1,58 @@
+{
+  "주의": "기술 평가용 합성 규칙. 실제 LG 계약·요금·법령 아님. 종료일은 해당 날짜까지 포함. 종료일 다음 날부터 경과. 모든 날짜와 금액은 가상.",
+  "rule_id": "SYNTH-01",
+  "rules": {
+    "before_or_on_mandatory_end_penalty": 100000,
+    "after_mandatory_end_penalty": 0,
+    "collection_before_or_on_contract_end": 50000,
+    "discount_return_before_or_on_contract_end": 20000,
+    "after_contract_end_all_known_fees": 0,
+    "missing_any_cost_total": null
+  },
+  "contracts": [
+    {
+      "id": "DEMO-A",
+      "mandatory_end": "2026-08-31",
+      "contract_end": "2028-08-31",
+      "exit_date": "2026-09-22",
+      "arrears": 0,
+      "expected_penalty": 0,
+      "expected_total": 70000
+    },
+    {
+      "id": "DEMO-B",
+      "mandatory_end": "2026-08-31",
+      "contract_end": "2028-08-31",
+      "exit_date": "2026-08-31",
+      "arrears": 0,
+      "expected_penalty": 100000,
+      "expected_total": 170000
+    },
+    {
+      "id": "DEMO-C",
+      "mandatory_end": "2024-08-31",
+      "contract_end": "2026-08-31",
+      "exit_date": "2026-09-22",
+      "arrears": 0,
+      "expected_total": 0
+    },
+    {
+      "id": "DEMO-D",
+      "mandatory_end": "2026-08-31",
+      "contract_end": "2028-08-31",
+      "exit_date": "2026-09-22",
+      "arrears": 0,
+      "discount_return": "unknown",
+      "expected_confirmed_subtotal": 50000,
+      "expected_total": null
+    },
+    {
+      "id": "DEMO-E",
+      "mandatory_end": "2026-08-31",
+      "contract_end": "2028-08-31",
+      "exit_date": "2026-09-22",
+      "arrears": 30000,
+      "expected_total": 100000
+    }
+  ]
+}

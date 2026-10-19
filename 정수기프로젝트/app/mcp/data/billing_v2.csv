@@ -1,0 +1,5 @@
+﻿customer_id,is_demo,as_of,payment_status,arrears,current_month_invoice,current_month_paid,arrears_detail,next_service_date,next_filter_due,source_type,current_month_status
+DEMO-U01,True,2026-10-06,paid,0,29900,29900,미납 없음,2026-10-15,방문관리 시 교체,synthetic_billing_and_care,
+DEMO-U02,True,2026-10-06,paid,0,24900,24900,미납 없음,해당 없음,2026-10-20,synthetic_billing_and_care,
+DEMO-U03,True,2026-10-06,paid,0,0,0,미납 없음,해당 없음,2026-10-20,synthetic_billing_and_care,
+DEMO-U04,True,2026-10-06,unpaid,30000,29900,29900,"2026-09 별도 정산 미납 30,000원",2026-10-15,방문관리 시 교체,synthetic_billing_and_care,paid

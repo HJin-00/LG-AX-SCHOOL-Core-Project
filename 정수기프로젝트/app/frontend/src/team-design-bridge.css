@@ -1,0 +1,128 @@
+/* 팀원 시안과 실제 API 화면의 공통 컴포넌트를 연결합니다. */
+.consultation-bento .bento-header-actions .customer-account{flex-shrink:0}
+.consultation-bento .bento-header-actions .customer-account strong{font-size:13px}
+.consultation-bento .account-consent-panel,.consultation-bento .required-info-panel,.consultation-bento .renewal-card,.consultation-bento .renewal-catalog,.consultation-bento .installation-panel{max-width:1000px;margin-left:auto;margin-right:auto;background:#fff;border-color:#e6e3df}
+.consultation-bento .renewal-choice-grid section,.consultation-bento .renewal-product-row,.consultation-bento .contract-card{background:#fff;border-color:#e6e3df}
+.consultation-bento .renewal-date-controls{background:#f7f5f2}
+.consultation-bento .composer .consultation-input-copy{flex:1;min-width:0}
+.consultation-bento .composer input{width:100%;min-width:0}
+.consultation-bento .login-overlay{z-index:100}
+.consultation-bento .bento-shortcuts{margin-top:18px;flex-wrap:wrap}
+.consultation-bento button:disabled{opacity:.5;cursor:not-allowed}
+.consultation-bento .bento-product-heading h2{overflow-wrap:anywhere}
+@media(max-width:600px){.consultation-bento .bento-header-actions{gap:8px}.consultation-bento .customer-avatar,.consultation-bento .customer-account small,.consultation-bento .bento-home-link{display:none}.consultation-bento .customer-account{gap:6px}.consultation-bento .account-logout{font-size:11px}.consultation-bento .bento-brand strong{font-size:16px}.consultation-bento .bento-header-left{gap:6px}.consultation-bento .chat-main{padding:18px 14px}.consultation-bento .renewal-choice-grid{grid-template-columns:1fr}}
+
+/* 비교 카드가 일반 말풍선의 최대 폭(700px)에 묶이지 않도록 분리합니다. */
+.consultation-bento .thread--wide{width:100%;max-width:1120px;margin:0 auto}
+.consultation-bento .thread--wide .topic-message-anchor{min-width:0;scroll-margin-top:24px}
+.consultation-bento .agent-message--wide{width:100%;min-width:0}
+.consultation-bento .agent-message--wide .agent-content{flex:1;width:100%;min-width:0;max-width:none}
+.consultation-bento .agent-message--wide .card-intro{margin-bottom:16px}
+.consultation-bento .renewal-catalog,.consultation-bento .renewal-card,.consultation-bento .renewal-timing-card{width:100%;max-width:none;padding:26px;border:1px solid #e6e3df;border-radius:22px;margin-top:16px;box-sizing:border-box;overflow-wrap:anywhere}
+.consultation-bento .renewal-card-heading h3{font-size:23px;line-height:1.35}
+.consultation-bento .renewal-catalog-filters{display:grid;grid-template-columns:minmax(0,1.4fr) minmax(0,1fr) minmax(0,1fr);align-items:end;background:#f7f5f2;gap:16px}
+.consultation-bento .renewal-catalog-filters label{min-width:0}
+.consultation-bento .renewal-catalog-filters input:not([type=checkbox]),.consultation-bento .renewal-catalog-filters select{width:100%;min-width:0;box-sizing:border-box}
+.consultation-bento .renewal-catalog-filters .renewal-ice-filter{align-self:center;gap:8px}
+.consultation-bento .renewal-product-list{grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+.consultation-bento .renewal-product-row{display:grid;grid-template-columns:84px minmax(0,1fr);align-items:start;gap:16px;padding:20px;min-width:0;border-radius:18px}
+.consultation-bento .renewal-product-row>img{width:84px;height:128px;object-fit:contain}
+.consultation-bento .renewal-product-description h4{font-size:15px;line-height:1.55}
+.consultation-bento .renewal-feature-tags{gap:5px}
+.consultation-bento .renewal-feature-tags span{max-width:100%;font-size:11px;padding:5px 7px;overflow-wrap:anywhere}
+.consultation-bento .renewal-product-description>.ui-button{width:100%;white-space:normal;line-height:1.5}
+.consultation-bento .renewal-date-controls{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr) auto;align-items:end;padding:18px;gap:14px}
+.consultation-bento .renewal-date-controls label{min-width:0}
+.consultation-bento .renewal-date-controls input,.consultation-bento .renewal-date-controls select{width:100%;min-width:0;box-sizing:border-box;min-height:44px}
+.consultation-bento .renewal-date-controls>.ui-button{margin:0;min-height:44px}
+.consultation-bento .renewal-choice-grid{grid-template-columns:repeat(2,minmax(0,1fr));align-items:start;gap:20px}
+.consultation-bento .renewal-choice-grid>section{padding:22px;min-width:0}
+.consultation-bento .renewal-choice-grid dl>div{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);align-items:start;gap:12px;padding:8px 0;border-bottom:1px solid #eee9e5}
+.consultation-bento .renewal-choice-grid dt,.consultation-bento .renewal-choice-grid dd{min-width:0;overflow-wrap:anywhere}
+.consultation-bento .renewal-price{font-size:32px;line-height:1.4;overflow-wrap:normal}
+.consultation-bento .renewal-price small{display:inline-block;font-size:13px;white-space:nowrap}
+.consultation-bento .renewal-missing p{line-height:1.7;margin:8px 0}
+@media(max-width:1100px){.consultation-bento .renewal-product-list{grid-template-columns:1fr}.consultation-bento .renewal-product-row{grid-template-columns:110px minmax(0,1fr)}.consultation-bento .renewal-product-row>img{width:110px;height:145px}}
+@media(max-width:800px){.consultation-bento .renewal-choice-grid{grid-template-columns:1fr}.consultation-bento .renewal-catalog-filters{grid-template-columns:repeat(2,minmax(0,1fr))}.consultation-bento .renewal-ice-filter{grid-column:1/-1}.consultation-bento .renewal-date-controls{grid-template-columns:repeat(2,minmax(0,1fr))}.consultation-bento .renewal-date-controls>.ui-button{grid-column:1/-1}}
+@media(max-width:520px){.consultation-bento .renewal-catalog,.consultation-bento .renewal-card,.consultation-bento .renewal-timing-card{padding:16px;border-radius:16px}.consultation-bento .renewal-product-row{grid-template-columns:1fr;padding:16px}.consultation-bento .renewal-product-row>img{width:100%;height:145px}.consultation-bento .renewal-catalog-filters,.consultation-bento .renewal-date-controls{grid-template-columns:1fr}.consultation-bento .renewal-choice-grid>section{padding:16px}.consultation-bento .renewal-card-heading h3{font-size:19px}.consultation-bento .renewal-price{font-size:28px}}
+
+/* A visible, task-specific status stays in view even before the first chat message. */
+.consultation-progress{position:fixed;top:88px;left:50%;transform:translateX(-50%);z-index:80;display:flex;align-items:center;gap:18px;width:min(620px,calc(100vw - 40px));padding:22px 26px 27px;background:#fff;border:1px solid #edd3dc;border-radius:20px;box-shadow:0 12px 40px #50172b25;overflow:hidden;pointer-events:none}
+.consultation-progress strong{display:block;font-size:17px;color:#a50034;line-height:1.5}
+.consultation-progress p{margin:5px 0 0;font-size:13px;line-height:1.6;color:#63575d}
+.consultation-spinner{width:30px;height:30px;flex-shrink:0;border:3px solid #f4dce4;border-top-color:#a50034;border-radius:50%;animation:consultation-spin .85s linear infinite}
+.consultation-progress-track{position:absolute;bottom:0;left:0;height:4px;width:35%;background:#a50034;animation:consultation-track 1.7s ease-in-out infinite}
+@keyframes consultation-spin{to{transform:rotate(360deg)}}
+@keyframes consultation-track{0%{transform:translateX(-100%)}100%{transform:translateX(300%)}}
+@media(max-width:600px){.consultation-progress{top:76px;padding:17px 18px 22px;gap:12px}.consultation-progress strong{font-size:15px}}
+@media(prefers-reduced-motion:reduce){.consultation-spinner,.consultation-progress-track{animation:none}}
+
+.consultation-bento .bento-welcome--purchase .bento-recommend{grid-column:2 / span 2}
+@media(max-width:800px){.consultation-bento .bento-welcome--purchase .bento-recommend{grid-column:auto}}
+
+.consultation-bento .bento-product-visual--owned img{transform:none;object-fit:contain}
+
+.product-carousel{min-width:0;width:100%;margin:18px 0}
+.product-carousel-toolbar{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:14px;background:#fff;padding:8px 0;position:sticky;top:0;z-index:3}
+.product-carousel-toolbar>div{display:flex;align-items:center;gap:14px;color:#6b5b62;font-size:14px}
+.product-carousel-toolbar button{width:40px;height:40px;border:1px solid #e4d7dc;background:#fff;border-radius:50%;font-size:27px;color:#a50034;cursor:pointer}
+.product-carousel-toolbar button:disabled{opacity:.3;cursor:default}
+.product-carousel-track{position:relative;display:flex;gap:16px;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:none;overscroll-behavior-x:contain;align-items:flex-start}
+.product-carousel-track::-webkit-scrollbar{display:none}
+.product-carousel-slide{min-width:0;flex:0 0 100%;scroll-snap-align:start}
+.product-carousel-slide .product-result-card{margin:0}
+.product-carousel-slide .renewal-product-row{margin:0;min-width:0}
+.product-carousel-hint{color:#82747b;font-size:12px;margin:10px 0}
+.product-color-options{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0 16px}
+.product-color-options button{display:inline-flex;align-items:center;gap:7px;border:1px solid #e6dfe2;border-radius:20px;background:white;padding:8px 10px;color:#5b5055;font-size:12px;cursor:pointer}
+.product-color-options button[aria-pressed=true]{border-color:#a50034;box-shadow:0 0 0 1px #a50034;color:#a50034}
+.product-color-options button>span{display:block;width:18px;height:18px;border-radius:50%;border:1px solid #0002}
+.recommendation-choice-group{border:1px solid #e8e1e4;border-radius:16px;padding:20px;margin:20px 0;background:#fff}
+.recommendation-choice-group legend{padding:0 8px;font-size:17px;font-weight:700;color:#45323b}
+.recommendation-choice-group>p{font-size:13px;color:#766970;margin:0 0 16px}
+.recommendation-water-choices{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}
+.recommendation-installation-choices{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
+.recommendation-water-choices label,.recommendation-installation-choices label{display:flex;align-items:center;justify-content:center;gap:8px;border:1px solid #e6dfe2;padding:15px 10px;border-radius:12px;cursor:pointer;background:#faf9f8}
+.recommendation-choice-group label.is-selected{background:#fff0f5;border-color:#a50034;color:#a50034}
+.recommendation-choice-group input{accent-color:#a50034}
+.recommendation-installation-choices strong{display:block;font-size:14px}
+.recommendation-installation-choices small{display:block;font-size:11px;margin-top:5px;color:#7d6e76}
+.recommendation-clear{border:0;background:none;text-decoration:underline;font-size:12px;color:#776c72;margin-top:14px;cursor:pointer}
+@media(max-width:560px){.recommendation-water-choices{grid-template-columns:repeat(2,minmax(0,1fr))}.recommendation-installation-choices{grid-template-columns:1fr}.recommendation-choice-group{padding:16px}}
+.product-carousel,.product-carousel-track,.product-carousel-slide{max-width:100%;min-width:0}
+.product-carousel-slide .product-result-card{display:grid;grid-template-columns:180px minmax(0,1fr);gap:10px 20px;align-items:start;padding:22px;border-radius:18px;background:#fff;overflow:hidden}
+.product-carousel-slide .product-result-card>img{grid-column:1;grid-row:1 / span 5;width:100%;height:220px;margin:0;object-fit:contain}
+.product-carousel-slide .product-result-card>small,.product-carousel-slide .product-result-card>strong,.product-carousel-slide .product-result-card>.product-color-options,.product-carousel-slide .product-result-card>.product-price-grid,.product-carousel-slide .product-result-card>.product-water-features{grid-column:2;margin:0}
+.product-carousel-slide .product-result-card>strong{font-size:17px;line-height:1.45;overflow-wrap:anywhere}
+.product-carousel-slide .product-price-grid{gap:8px}
+.product-carousel-slide .product-price-grid>div{padding:12px}
+.product-carousel-slide .product-price-grid b{font-size:18px;white-space:normal;overflow-wrap:anywhere}
+.product-carousel-slide .product-result-card>details,.product-carousel-slide .product-result-card>.ui-button,.product-carousel-slide .product-result-card>p{grid-column:1 / -1}
+.product-water-features{display:flex;flex-wrap:wrap;gap:6px}
+.product-water-features span{font-size:12px;border-radius:20px;padding:5px 10px;color:#a50034;background:#fff0f5}
+.product-card-details{padding:10px 12px;border:1px solid #eee8eb;border-radius:10px;font-size:12px}
+.product-card-details summary{cursor:pointer;color:#68545e}
+.product-carousel-toolbar{border-radius:12px;padding:10px 14px;border:1px solid #e9e2e5}
+@media(max-width:600px){.product-carousel-slide .product-result-card{grid-template-columns:110px minmax(0,1fr);padding:16px;gap:10px}.product-carousel-slide .product-result-card>img{height:170px}.product-carousel-slide .product-result-card>strong{font-size:15px}.product-carousel-slide .product-price-grid{grid-template-columns:1fr}.product-carousel-slide .product-price-grid b{font-size:16px}.product-color-options button{font-size:11px;padding:6px 8px}.product-carousel-toolbar>div{gap:9px}}
+
+.inline-consent{margin:16px 0;padding:20px;background:#fff8fa;border:1px solid #edd7df;border-radius:16px}
+.inline-consent h4{margin:0 0 8px;color:#a50034}.inline-consent>p{font-size:13px;color:#74656d}
+.inline-consent label{display:flex;align-items:center;gap:12px;padding:10px 0}.inline-consent input{width:18px;height:18px;accent-color:#a50034}
+.inline-consent strong,.inline-consent small{display:block}.inline-consent small{font-size:12px;color:#7b6d74;margin-top:4px}
+.inline-consent-complete{font-size:13px;color:#745b66;background:#faf3f6;padding:12px;border-radius:12px}
+
+.typing-message{margin:18px 0}.typing-bubble{display:flex;align-items:center;gap:7px;width:78px;height:45px;background:#fff;border:1px solid #eadfe4;border-radius:6px 18px 18px 18px;padding:16px}
+.typing-bubble>span[aria-hidden=true]{display:block;width:7px;height:7px;background:#a50034;border-radius:50%;animation:typing-pulse 1.2s ease-in-out infinite}
+.typing-bubble>span[aria-hidden=true]:nth-of-type(3){animation-delay:.16s}.typing-bubble>span[aria-hidden=true]:nth-of-type(4){animation-delay:.32s}
+@keyframes typing-pulse{0%,70%,100%{opacity:.3;transform:translateY(0)}35%{opacity:1;transform:translateY(-4px)}}
+@media(prefers-reduced-motion:reduce){.typing-bubble>span[aria-hidden=true]{animation:none}}
+
+.coupon-base-price{display:block;color:#807079;font-size:10px;line-height:1.5;margin-top:7px}
+
+.usage-manual-card{background:#fff;border:1px solid #eadfe4;border-radius:18px;padding:24px;margin:16px 0}.usage-manual-card>span{font-size:12px;color:#a50034}.usage-manual-card h3{margin:8px 0}.usage-manual-card>small{display:block;margin-bottom:16px;color:#7a6e74}.usage-manual-card>.ui-button{display:inline-flex;margin:12px 0}
+
+.consultation-bento .exit-cost-summary{padding:22px 24px;margin-bottom:20px;background:#fff3f6;border:1px solid #ecd6de;border-radius:16px;display:flex;flex-direction:column;gap:8px}.consultation-bento .exit-cost-summary>span{font-size:14px;font-weight:600;color:#65535b}.consultation-bento .exit-cost-summary>strong{font-size:32px;font-weight:800;line-height:1.25;color:#a50034}.consultation-bento .exit-cost-summary>strong small{font-size:18px;margin-left:5px}.consultation-bento .exit-cost-summary p{margin:0;font-size:14px;line-height:1.6;color:#65535b}
+
+.brief-download-ready{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:20px;margin:16px 0;border:1px solid #ecd6de;border-radius:16px;background:#fff3f6}@media(max-width:600px){.brief-download-ready{align-items:stretch;flex-direction:column}}
+
+.renewal-average-title{font-size:15px;font-weight:700;margin:12px 0 8px;color:#a50034}.renewal-next-actions{display:flex;flex-wrap:wrap;gap:10px;margin:20px 0}.card-selection{display:grid;gap:12px}.renewal-missing-actions{padding:20px;background:#fff7ed;border-radius:14px;margin:18px 0}.renewal-missing-actions button{margin:6px 8px 0 0}.selected-product-bar{flex-wrap:wrap}.subscription-tier-list>div{flex-wrap:wrap;gap:6px}

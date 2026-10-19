@@ -1,0 +1,5 @@
+﻿demo_customer_id,product_model,usage_type,care_mode,next_service_date,next_filter_due,monthly_fee,payment_status,contract_fixture_id
+DEMO-U01,WD520VCT,subscription,visit,2026-10-15,,29900,paid,DEMO-A
+DEMO-U02,WU923AWB,subscription,self,,2026-10-20,24900,unverified,DEMO-D
+DEMO-U03,WD520VCT,purchase,self,,,,not_applicable,
+DEMO-U04,WD520VCT,subscription,,,,29900,unpaid,DEMO-E

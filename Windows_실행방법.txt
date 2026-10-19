@@ -1,0 +1,61 @@
+정수기 계약 상담 AI - Windows 팀원 실행 방법
+
+대상 환경: Windows 10/11 x64, Python 3.12, Node.js 22.12 이상 또는 LTS.
+
+1. ZIP 파일을 먼저 모두 압축 해제합니다.
+   ZIP 안의 START_WINDOWS.cmd를 바로 실행하지 마세요.
+   가능하면 C:\LGAX\water 같은 짧은 로컬 폴더에 풉니다.
+
+2. Python이나 Node.js가 없는 PC는 INSTALL_WINDOWS.cmd를 더블클릭합니다.
+   Microsoft WinGet으로 Python 3.12와 Node.js LTS 설치를 진행합니다.
+   설치 창과 약관이 나오면 사용자가 직접 확인합니다.
+   WinGet이 없으면 공식 다운로드 페이지가 열립니다.
+   Python은 3.12를 설치하고 Add python.exe to PATH를 선택합니다.
+   설치 후 창을 닫고 다음 단계로 진행합니다.
+   설치 직후 프로그램을 찾지 못하면 Windows를 한 번 재시작하세요.
+
+3. START_WINDOWS.cmd를 더블클릭합니다.
+   처음에는 .venv-win 생성, Python 패키지 설치, npm ci, 화면 빌드를 진행합니다.
+   인터넷 연결이 필요하고 수 분 이상 걸릴 수 있습니다.
+   다음부터는 같은 패키지를 다시 설치하지 않습니다.
+   현재 소스를 반영하도록 화면 빌드는 실행할 때마다 진행합니다.
+
+4. 준비가 끝나면 브라우저가 자동으로 열립니다.
+   주소: http://127.0.0.1:3001
+   직접 터미널 두 개를 열거나 npm 명령을 입력할 필요가 없습니다.
+   실행 창을 켜둔 채 사용하고, 종료할 때 그 창에서 Ctrl+C를 누릅니다.
+
+5. 로그인 계정
+   test1 / 1234 : 이서연, 구독 계약
+   test2 / 1234 : 박지훈, 구독 계약
+   test3 / 1234 : 최유진, 구매 고객
+   test4 / 1234 : 정민수, 구독 계약
+
+6. MySQL 및 AI 설정
+   ENV포함 ZIP 안의 app/config/app.env를 그대로 사용합니다.
+   공용 MySQL을 사용하므로 로컬 MySQL을 설치하거나 계정을 새로 만들지 않습니다.
+   이 실행 파일은 DB 비밀번호, 고객 계정, 동의 설정을 바꾸지 않습니다.
+   app.env가 없으면 팀장에게 ENV포함 ZIP을 다시 받으세요.
+   공용 DB와 AI API에 접속할 수 있는 인터넷 연결이 필요합니다.
+   실제 AI 상담은 제공된 API 키의 사용량을 소비합니다.
+
+7. 공개 문서 벡터 검색을 사용할 때
+   BUILD_RAG_WINDOWS.cmd를 더블클릭하고 안내를 읽은 뒤 YES를 입력합니다.
+   공개 지식문서만 OpenAI 임베딩 API로 전송하며 API 사용량이 발생합니다.
+   개인 계약과 대화는 임베딩하지 않습니다.
+   완료 후 START_WINDOWS.cmd로 실행합니다.
+   인덱스를 만들지 않으면 기존 키워드 검색으로 실행됩니다.
+
+문제 해결
+- 실행 창에 Python 오류: INSTALL_WINDOWS.cmd로 Python 3.12 설치를 확인하세요.
+- Node.js 오류: Node.js 22.12 이상 또는 최신 LTS를 설치한 뒤 다시 실행하세요.
+- 패키지 설치 실패: 창을 닫지 말고 마지막 오류를 팀장에게 전달하세요.
+  START_WINDOWS.cmd를 다시 실행하면 실패한 설치 단계부터 다시 시도합니다.
+- 8000 또는 3001 포트 사용 중: 이전에 켜 둔 프로젝트 실행 창을 먼저 종료하세요.
+  다른 프로그램은 자동으로 종료하지 않습니다.
+- 화면이나 AI 서버 시작 실패: app/backend/ai/runtime/windows-launcher의
+  api.log와 web.log를 확인하세요. 설정 파일 원문이나 API 키는 보내지 마세요.
+
+START_WINDOWS.cmd는 Windows용 시작 파일이며 단일 EXE 프로그램은 아닙니다.
+Python과 Node.js를 사용하는 기존 프로젝트를 더블클릭으로 준비·실행합니다.
+PowerShell 실행 정책이나 Windows 보안 설정을 변경하지 않습니다.

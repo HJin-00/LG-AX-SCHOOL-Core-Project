@@ -1,0 +1,17 @@
+# Credentials and local configuration
+**/app.env
+**/mysql.env
+**/.env
+**/.env.*
+!**/.env.example
+**/local_demo_login.txt
+# Generated files
+**/node_modules/
+**/dist/
+**/runtime/
+**/__pycache__/
+**/.pytest_cache/
+**/.venv*/
+**/.DS_Store
+*.log
+*.zip

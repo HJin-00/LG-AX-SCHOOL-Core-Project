@@ -1,0 +1,5 @@
+﻿customer_id,maintenance_monthly_fee,installation_model_id,surface_material,drilling_needed,pump_needed,breaker_needed,outlet_needed,external_outlet_drilling,external_water_drilling,thick_sink,source_id,default_offer_id
+DEMO-U01,5000,WD520VCT,artificial,no,no,no,no,no,no,no,SYNTH-RENEWAL-CONTEXT-V1,DEMO-NEW-01
+DEMO-U02,8000,WU923AWB,artificial,no,no,no,no,no,no,no,SYNTH-RENEWAL-CONTEXT-V1,DEMO-NEW-02
+DEMO-U03,5000,WD520VCT,artificial,no,no,no,no,no,no,no,SYNTH-RENEWAL-CONTEXT-V1,DEMO-NEW-01
+DEMO-U04,5000,WD520VCT,artificial,no,no,no,no,no,no,no,SYNTH-RENEWAL-CONTEXT-V1,DEMO-NEW-01

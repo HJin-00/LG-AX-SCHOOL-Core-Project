@@ -1,0 +1,78 @@
+{
+  "확인일": "2026-09-24",
+  "출처": [
+    {
+      "자료": "품목별 상담현황 과거 월별 12개",
+      "URL": "https://www.data.go.kr/data/15120072/fileData.do",
+      "세부주소": "월별자료_다운로드기록.json"
+    },
+    {
+      "자료": "연령대별 상담다발품목 2026년7월",
+      "URL": "https://www.data.go.kr/data/15120078/fileData.do",
+      "다운로드": "https://www.data.go.kr/cmm/cmm/fileDownload.do?atchFileId=FILE_000000007670148&fileDetailSn=1&insertDataPrcus=N"
+    },
+    {
+      "자료": "정수기 렌탈 피해예방주의보 2025년5월30일",
+      "URL": "https://www.kca.go.kr/home/sub.do?menukey=4005&mode=view&no=1003878293",
+      "다운로드": "https://www.kca.go.kr/home/board/download.do?menukey=4005&fno=10047207&bid=00000012&did=1003878293"
+    }
+  ],
+  "파일": [
+    {
+      "파일명": "KCA_정수기렌탈_피해예방주의보_20250530.pdf",
+      "sha256": "c86dbf55edb485d709388212ed1c9beb2fb31f7f31c2c2be4879c18d68545fa9"
+    },
+    {
+      "파일명": "연령대별_상담다발품목_20260731.csv",
+      "sha256": "5d8c7f5383735e1cbaed9a17c6a66a238109188ccb84ebc7dd5416b645bb365f"
+    },
+    {
+      "파일명": "품목별_상담현황_20250731.csv",
+      "sha256": "3a26eb0a5de5aaa01729264e1e189e1ece2a13a110a71c8a9e2048e6b96aaa84"
+    },
+    {
+      "파일명": "품목별_상담현황_20250831.csv",
+      "sha256": "88661d15ba99e0b10b8a9add969f8c0203085c48a99862ef76d7606d61cdb144"
+    },
+    {
+      "파일명": "품목별_상담현황_20250930.csv",
+      "sha256": "0d000afd429ed8426f354fa50119cea664f8c793027a9173b82cd72149bf5bcf"
+    },
+    {
+      "파일명": "품목별_상담현황_20251031.csv",
+      "sha256": "6753431ed35ae86d0c7abbfc2c8216a35679dd5408ca88c5d4cf4e587d4ac02b"
+    },
+    {
+      "파일명": "품목별_상담현황_20251130.csv",
+      "sha256": "7432ded474b6734d4186d7b9eab726e2fb0a1d0e936aeb2cc8af6e3304f002c1"
+    },
+    {
+      "파일명": "품목별_상담현황_20251231.csv",
+      "sha256": "0284a6de2255e2f619a94461dfb807d8ba8dfab89a0f7b9dec7858490b11b9dd"
+    },
+    {
+      "파일명": "품목별_상담현황_20260131.csv",
+      "sha256": "a8b9f9612aa327341707655adb0e44fe8220c2aeb357b667bd58884f91b52095"
+    },
+    {
+      "파일명": "품목별_상담현황_20260228.csv",
+      "sha256": "693cc572a491de80052f44e7a7e91832a31af6caff9d73268f3513dafabb57a1"
+    },
+    {
+      "파일명": "품목별_상담현황_20260331.csv",
+      "sha256": "179d87a33f04954c1c3edd331de750db3623084559ef9a24460ebbc88827c106"
+    },
+    {
+      "파일명": "품목별_상담현황_20260430.csv",
+      "sha256": "0543f0fbfe6136710ab92b8ba5a8b97277ba236f2998ce7f2431aa66f4a2ce43"
+    },
+    {
+      "파일명": "품목별_상담현황_20260531.csv",
+      "sha256": "5315fdff0da379359e1340a88ffc403c57ea25fbfd8be31fe256d656752ebfa2"
+    },
+    {
+      "파일명": "품목별_상담현황_20260630.csv",
+      "sha256": "c9e270c3f23a874153aa2c7adc60435636ff704231950c624c28b6f4bbd7e725"
+    }
+  ]
+}

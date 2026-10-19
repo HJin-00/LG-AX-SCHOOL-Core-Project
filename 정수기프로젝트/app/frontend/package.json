@@ -1,0 +1,26 @@
+{
+  "name": "water-consultation-web",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "start": "node ../web/server.mjs",
+    "server": "node ../web/server.mjs",
+    "test:server": "npm run build && node --test ../web/server.test.mjs",
+    "test:ui": "node --test tests/*.test.mjs",
+    "test": "npm run build && node --test tests/*.test.mjs src/api/*.test.js src/components/products/*.test.js ../web/server.test.mjs"
+  },
+  "dependencies": {
+    "axios": "^1.20.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.18.4"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2",
+    "vite": "^7.0.0"
+  }
+}

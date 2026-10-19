@@ -1,0 +1,29 @@
+{
+  "source_title": "LG전자 고객 Q&A 한눈에 보기 - 정수기 편",
+  "source_url": "https://www.lge.co.kr/story/faq/water-purifiers-faq",
+  "checked_at": "2026-09-29",
+  "scope": "공식 페이지의 '정수기 제품 질문' 20개를 화면 순서대로 수작업 분류. 주문 및 배송 섹션은 제외. 각 질문은 요약문이며 원문 전재가 아님.",
+  "count_warning": "FAQ 항목 수는 게시 문서 구성이다. 실제 고객 문의 건수 또는 수요 비율이 아니다.",
+  "questions": [
+    {"no": 1, "summary": "정수기 제품 종류", "category": "구매·설치"},
+    {"no": 2, "summary": "설치 조건", "category": "구매·설치"},
+    {"no": 3, "summary": "조리수·지하수 연결 가능 여부", "category": "구매·설치"},
+    {"no": 4, "summary": "필터 종류와 교체 시기", "category": "관리"},
+    {"no": 5, "summary": "온수·냉수가 나오지 않을 때", "category": "사용·증상"},
+    {"no": 6, "summary": "얼음 출수가 느리거나 되지 않을 때", "category": "사용·증상"},
+    {"no": 7, "summary": "ThinQ 연결 후 사용할 수 있는 기능", "category": "기능"},
+    {"no": 8, "summary": "구독과 일시불 구매의 차이", "category": "구독·계약"},
+    {"no": 9, "summary": "소모품 추가 구매", "category": "관리"},
+    {"no": 10, "summary": "서비스 방문 전 확인 방법", "category": "사용·증상"},
+    {"no": 11, "summary": "싱크대 타공 없는 설치 가능 여부", "category": "구매·설치"},
+    {"no": 12, "summary": "구매 시 케어십 가입 조건", "category": "구독·계약"},
+    {"no": 13, "summary": "직수관 고온살균 기능", "category": "기능"},
+    {"no": 14, "summary": "살균 주기", "category": "관리"},
+    {"no": 15, "summary": "살균 후 냉수가 미지근한 현상", "category": "사용·증상"},
+    {"no": 16, "summary": "출수구 고온살균 기능", "category": "기능"},
+    {"no": 17, "summary": "방문관리와 자가관리의 차이", "category": "관리"},
+    {"no": 18, "summary": "필터 교체 방법과 구매처", "category": "관리"},
+    {"no": 19, "summary": "필터 커버 분리 문제", "category": "사용·증상"},
+    {"no": 20, "summary": "제품 알림 소리 설정", "category": "기능"}
+  ]
+}

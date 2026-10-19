@@ -1,0 +1,74 @@
+[
+  {
+    "date": "20260630",
+    "url": "https://www.data.go.kr/cmm/cmm/fileDownload.do?atchFileId=FILE_000000003683316&fileDetailSn=1&insertDataPrcus=N",
+    "file": "품목별_상담현황_20260630.csv",
+    "detail_id": "uddi:a87d6e84-61da-4055-8ec4-e9119ef7f73c"
+  },
+  {
+    "date": "20260531",
+    "url": "https://www.data.go.kr/cmm/cmm/fileDownload.do?atchFileId=FILE_000000003664237&fileDetailSn=1&insertDataPrcus=N",
+    "file": "품목별_상담현황_20260531.csv",
+    "detail_id": "uddi:68ff2c3a-da87-4d0b-97ab-8f0abb2092f4"
+  },
+  {
+    "date": "20260430",
+    "url": "https://www.data.go.kr/cmm/cmm/fileDownload.do?atchFileId=FILE_000000003646678&fileDetailSn=1&insertDataPrcus=N",
+    "file": "품목별_상담현황_20260430.csv",
+    "detail_id": "uddi:1b595a0a-e4fe-454f-8343-bdedb61b2a9c"
+  },
+  {
+    "date": "20260331",
+    "url": "https://www.data.go.kr/cmm/cmm/fileDownload.do?atchFileId=FILE_000000003633534&fileDetailSn=1&insertDataPrcus=N",
+    "file": "품목별_상담현황_20260331.csv",
+    "detail_id": "uddi:a5b01ce2-42f5-44cf-b13e-8280b74e4489"
+  },
+  {
+    "date": "20260228",
+    "url": "https://www.data.go.kr/cmm/cmm/fileDownload.do?atchFileId=FILE_000000003617369&fileDetailSn=1&insertDataPrcus=N",
+    "file": "품목별_상담현황_20260228.csv",
+    "detail_id": "uddi:2ce0988e-35f6-474f-b611-943616366e6b"
+  },
+  {
+    "date": "20260131",
+    "url": "https://www.data.go.kr/cmm/cmm/fileDownload.do?atchFileId=FILE_000000003599889&fileDetailSn=1&insertDataPrcus=N",
+    "file": "품목별_상담현황_20260131.csv",
+    "detail_id": "uddi:3862fc2d-fbab-41e1-858b-ce51096964a3"
+  },
+  {
+    "date": "20251231",
+    "url": "https://www.data.go.kr/cmm/cmm/fileDownload.do?atchFileId=FILE_000000003594765&fileDetailSn=1&insertDataPrcus=N",
+    "file": "품목별_상담현황_20251231.csv",
+    "detail_id": "uddi:00bcf64c-adeb-4bc3-8c59-ebc73c04b9bb"
+  },
+  {
+    "date": "20251130",
+    "url": "https://www.data.go.kr/cmm/cmm/fileDownload.do?atchFileId=FILE_000000003571433&fileDetailSn=1&insertDataPrcus=N",
+    "file": "품목별_상담현황_20251130.csv",
+    "detail_id": "uddi:53aaf6f9-be08-453a-90a9-b60f67c52e6f"
+  },
+  {
+    "date": "20251031",
+    "url": "https://www.data.go.kr/cmm/cmm/fileDownload.do?atchFileId=FILE_000000003545882&fileDetailSn=1&insertDataPrcus=N",
+    "file": "품목별_상담현황_20251031.csv",
+    "detail_id": "uddi:d2da972e-ad90-455f-aafc-ecf161065336"
+  },
+  {
+    "date": "20250930",
+    "url": "https://www.data.go.kr/cmm/cmm/fileDownload.do?atchFileId=FILE_000000003530937&fileDetailSn=1&insertDataPrcus=N",
+    "file": "품목별_상담현황_20250930.csv",
+    "detail_id": "uddi:d5557e0a-3d5c-4e34-ac39-d2ec7d38168d"
+  },
+  {
+    "date": "20250831",
+    "url": "https://www.data.go.kr/cmm/cmm/fileDownload.do?atchFileId=FILE_000000003524490&fileDetailSn=1&insertDataPrcus=N",
+    "file": "품목별_상담현황_20250831.csv",
+    "detail_id": "uddi:a1ff6dc5-8fee-4637-a8b5-8bf65b054b8e"
+  },
+  {
+    "date": "20250731",
+    "url": "https://www.data.go.kr/cmm/cmm/fileDownload.do?atchFileId=FILE_000000003226957&fileDetailSn=1&insertDataPrcus=N",
+    "file": "품목별_상담현황_20250731.csv",
+    "detail_id": "uddi:913b42b4-c3d7-43e6-9268-efcdc3859ea0"
+  }
+]

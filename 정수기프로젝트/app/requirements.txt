@@ -1,0 +1,4 @@
+-r backend/ai/requirements-lock.txt
+-r agent/requirements.txt
+-r mcp/requirements.txt
+PyYAML==6.0.3

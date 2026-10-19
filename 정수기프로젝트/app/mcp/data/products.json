@@ -1,0 +1,3624 @@
+{
+  "products": [
+    {
+      "model_id": "WD520VCT",
+      "review_status": "active",
+      "checked_at": "2026-10-07",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "168×398×400 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "sources": [
+        {
+          "document_id": "LG-PRODUCT-WD520VCT",
+          "title": "WD520VCT 공식 제품 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd520vct",
+          "section": "제품 상세 스펙",
+          "model_id": "WD520VCT",
+          "checked_at": "2026-10-07"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD520VCT",
+          "title": "WD520VCT 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd520vct?modelId=MD10801846&pdpType=PURCHASE",
+          "model_id": "WD520VCT",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD520VCT",
+          "title": "WD520VCT 공식 공개 구매 가격·혜택",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd520vct?modelId=MD10801846&pdpType=PURCHASE",
+          "checked_at": "2026-10-13",
+          "model_id": "WD520VCT",
+          "section": "미로그인 공개 가격 표시"
+        }
+      ],
+      "limitations": "모델별 공식 스펙 기준입니다. 가격·재고·현장 설치 가능 여부·최적 추천을 확정하지 않습니다.",
+      "is_demo": false,
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(맞춤 lite, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10801846/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd520vct?modelId=MD10801846&pdpType=PURCHASE",
+      "purchase_price": 1598000,
+      "subscription_monthly_from": 28900,
+      "price_checked_at": "2026-10-13",
+      "price_note": "공식 페이지의 회원할인가·구독 시작 월요금입니다. 구매 쿠폰·카드 할인은 아래에서 별도로 확인하며 구독 조건과 합산하지 않습니다. 구매 회원가·최대혜택가는 2026-10-13 미로그인 공개 표시값입니다. 현재 앱 쿠폰 미노출과 2026-10-08 이전 확인 기록을 구분합니다. 구독 월요금은 2026-10-08의 별도 선택 조건 스냅샷입니다.",
+      "card_benefits": [
+        {
+          "id": "kb",
+          "name": "LG전자 KB국민",
+          "annual_fee": 15000,
+          "months": 36,
+          "promotion_start": "2026-10-01",
+          "promotion_end": "2026-10-31",
+          "tiers": [
+            {
+              "spend": 300000,
+              "base": 10000,
+              "promotion": 5000
+            },
+            {
+              "spend": 800000,
+              "base": 15000,
+              "promotion": 5000
+            }
+          ],
+          "conditions": "기간 내 구독료 자동이체 등록, 전월 인정 실적 충족. 프로모션 최대 36개월. 라이트 할부 할인과 중복 불가. 할인받은 구독료·무이자할부·세금/공과금·상품권 등은 실적 제외.",
+          "source_url": "https://www.lge.co.kr/care-solutions/rentalService-benefits?rental-scrvice=card-recommendation"
+        },
+        {
+          "id": "shinhan",
+          "name": "LG전자 The 구독케어 신한 Mastercard",
+          "annual_fee": 25000,
+          "months": 72,
+          "promotion_start": "2026-10-01",
+          "promotion_end": "2026-10-31",
+          "tiers": [
+            {
+              "spend": 300000,
+              "base": 13000,
+              "promotion": 4000
+            },
+            {
+              "spend": 700000,
+              "base": 16000,
+              "promotion": 1000
+            },
+            {
+              "spend": 1300000,
+              "base": 20000,
+              "promotion": 0
+            }
+          ],
+          "conditions": "기간 내 Mastercard 구독료 자동이체 등록 및 전월 인정 실적 충족. 국내전용은 프로모션 제외. 1회 자동납부 7만원 이상일 때만 별도 1만 포인트 적립(월 1회). 포인트는 월요금 차감에 포함하지 않음. 세금·공과금·상품권 등 실적 제외.",
+          "source_url": "https://www.lge.co.kr/care-solutions/rentalService-benefits?rental-scrvice=card-recommendation"
+        }
+      ],
+      "purchase_benefits": {
+        "member_price": 1598000,
+        "coupon_price": null,
+        "coupon_name": null,
+        "coupon_discount": 0,
+        "max_benefit_price": 1486200,
+        "settlement_discount": 111800,
+        "payment_cards": [],
+        "installment_cards": [],
+        "simple_payment": [],
+        "additional": [
+          {
+            "title": "가구 + 가전 함께 구매 시 결합할인",
+            "description": "상품·결합 조건 충족 여부는 해당 공식 안내에서 확인합니다. 현재 가격에서 자동 차감하지 않습니다.",
+            "url": "https://homestyle.lge.co.kr/exhibition/detail?exhibitionId=2510000167"
+          }
+        ],
+        "notice": "공식 페이지에 표시된 회원가·쿠폰가·최대혜택가입니다. 앱전용 쿠폰은 앱·다운로드·적용 자격에 따라 달라집니다. 최대혜택가는 실제 결제액이 아니며 카드·추가혜택 조건을 확인해야 합니다.",
+        "installment_notice": "카드별 할인·할부 상세는 이번 공개 페이지 수집에서 확인하지 않았습니다.",
+        "checked_at": "2026-10-13",
+        "source_url": "https://www.lge.co.kr/product/water-purifiers/wd520vct?modelId=MD10801846&pdpType=PURCHASE",
+        "historical_coupon": {
+          "coupon_name": "[앱전용] LGE.COM 앱전용 쿠폰(10만원)",
+          "coupon_discount": 100000,
+          "coupon_price": 1498000,
+          "checked_at": "2026-10-07",
+          "source_url": "https://www.lge.co.kr/product/water-purifiers/wd520vct"
+        },
+        "historical_payment_cards": [
+          {
+            "name": "신한카드",
+            "benefit": "7% (최대 100만 원) 결제일 할인",
+            "condition": "(50만 원 이상 결제 시 적용)"
+          },
+          {
+            "name": "현대카드",
+            "benefit": "7% (최대 100만 원) 결제일 할인",
+            "condition": "(50만 원 이상 결제 시 적용)"
+          },
+          {
+            "name": "롯데카드",
+            "benefit": "7% (최대 100만 원) 결제일 할인",
+            "condition": "(50만 원 이상 결제 시 적용)"
+          },
+          {
+            "name": "KB국민카드",
+            "benefit": "7% (최대 100만 원) 결제일 할인",
+            "condition": "(50만 원 이상 결제 시 적용)"
+          },
+          {
+            "name": "우리카드",
+            "benefit": "7% (최대 100만 원) 결제일 할인",
+            "condition": "(50만 원 이상 결제 시 적용)"
+          }
+        ],
+        "historical_payment_checked_at": "2026-10-07",
+        "historical_installment_cards": [
+          {
+            "name": "LGE.COM 신한카드",
+            "periods": [
+              {
+                "period": "12개월 무이자",
+                "condition": "(100만 원 이상 결제 시 적용)"
+              },
+              {
+                "period": "2~3개월 무이자",
+                "condition": "(5만 원 이상 결제 시 적용)"
+              }
+            ]
+          },
+          {
+            "name": "신한카드",
+            "periods": [
+              {
+                "period": "12개월 무이자",
+                "condition": "(100만 원 이상 결제 시 적용)"
+              },
+              {
+                "period": "2~3개월 무이자",
+                "condition": "(5만 원 이상 결제 시 적용)"
+              }
+            ]
+          },
+          {
+            "name": "현대카드",
+            "periods": [
+              {
+                "period": "12개월 무이자",
+                "condition": "(100만 원 이상 결제 시 적용)"
+              },
+              {
+                "period": "2~3개월 무이자",
+                "condition": "(5만 원 이상 결제 시 적용)"
+              }
+            ]
+          },
+          {
+            "name": "롯데카드",
+            "periods": [
+              {
+                "period": "12개월 무이자",
+                "condition": "(100만 원 이상 결제 시 적용)"
+              },
+              {
+                "period": "2~3개월 무이자",
+                "condition": "(5만 원 이상 결제 시 적용)"
+              }
+            ]
+          },
+          {
+            "name": "KB국민카드",
+            "periods": [
+              {
+                "period": "12개월 무이자",
+                "condition": "(100만 원 이상 결제 시 적용)"
+              },
+              {
+                "period": "2~3개월 무이자",
+                "condition": "(5만 원 이상 결제 시 적용)"
+              }
+            ]
+          },
+          {
+            "name": "하나Pay카드",
+            "periods": [
+              {
+                "period": "12개월 무이자",
+                "condition": "(100만 원 이상 결제 시 적용)"
+              },
+              {
+                "period": "2~5개월 무이자",
+                "condition": "(5만 원 이상 결제 시 적용)"
+              }
+            ]
+          },
+          {
+            "name": "우리카드",
+            "periods": [
+              {
+                "period": "12개월 무이자",
+                "condition": "(100만 원 이상 결제 시 적용)"
+              },
+              {
+                "period": "2~5개월 무이자",
+                "condition": "(5만 원 이상 결제 시 적용)"
+              }
+            ]
+          },
+          {
+            "name": "비씨카드",
+            "periods": [
+              {
+                "period": "2~5개월 무이자",
+                "condition": "(5만 원 이상 결제 시 적용)"
+              }
+            ]
+          },
+          {
+            "name": "NH농협카드",
+            "periods": [
+              {
+                "period": "2~6개월 무이자",
+                "condition": "(5만 원 이상 결제 시 적용)"
+              }
+            ]
+          },
+          {
+            "name": "삼성카드",
+            "periods": [
+              {
+                "period": "2~3개월 무이자",
+                "condition": "(5만 원 이상 결제 시 적용)"
+              }
+            ]
+          }
+        ]
+      },
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WU923AWB",
+      "review_status": "active",
+      "checked_at": "2026-10-07",
+      "features": {
+        "설치 유형": "언더싱크형",
+        "본체 크기": "170×420×410 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": true,
+        "ThinQ": true,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "sources": [
+        {
+          "document_id": "LG-PRODUCT-WU923AWB",
+          "title": "WU923AWB 공식 제품 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wu923awb",
+          "section": "제품 상세 스펙",
+          "model_id": "WU923AWB",
+          "checked_at": "2026-10-07"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WU923AWB",
+          "title": "WU923AWB 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wu923awb",
+          "model_id": "WU923AWB",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WU923AWB",
+          "title": "WU923AWB 공식 공개 구매 가격·혜택",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wu923awb",
+          "checked_at": "2026-10-13",
+          "model_id": "WU923AWB",
+          "section": "미로그인 공개 가격 표시"
+        }
+      ],
+      "limitations": "모델별 공식 스펙 기준입니다. 가격·재고·현장 설치 가능 여부·최적 추천을 확정하지 않습니다.",
+      "is_demo": false,
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(듀얼, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10017838/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wu923awb",
+      "purchase_price": 2021000,
+      "subscription_monthly_from": 36900,
+      "price_checked_at": "2026-10-13",
+      "price_note": "공식 페이지의 회원할인가·구독 시작 월요금입니다. 구매 쿠폰·카드 할인은 아래에서 별도로 확인하며 구독 조건과 합산하지 않습니다. 구매 회원가·최대혜택가는 2026-10-13 미로그인 공개 표시값입니다. 현재 앱 쿠폰 미노출과 2026-10-08 이전 확인 기록을 구분합니다. 구독 월요금은 2026-10-08의 별도 선택 조건 스냅샷입니다.",
+      "card_benefits": [
+        {
+          "id": "kb",
+          "name": "LG전자 KB국민",
+          "annual_fee": 15000,
+          "months": 36,
+          "promotion_start": "2026-10-01",
+          "promotion_end": "2026-10-31",
+          "tiers": [
+            {
+              "spend": 300000,
+              "base": 10000,
+              "promotion": 5000
+            },
+            {
+              "spend": 800000,
+              "base": 15000,
+              "promotion": 5000
+            }
+          ],
+          "conditions": "기간 내 구독료 자동이체 등록, 전월 인정 실적 충족. 프로모션 최대 36개월. 라이트 할부 할인과 중복 불가. 할인받은 구독료·무이자할부·세금/공과금·상품권 등은 실적 제외.",
+          "source_url": "https://www.lge.co.kr/care-solutions/rentalService-benefits?rental-scrvice=card-recommendation"
+        },
+        {
+          "id": "shinhan",
+          "name": "LG전자 The 구독케어 신한 Mastercard",
+          "annual_fee": 25000,
+          "months": 72,
+          "promotion_start": "2026-10-01",
+          "promotion_end": "2026-10-31",
+          "tiers": [
+            {
+              "spend": 300000,
+              "base": 13000,
+              "promotion": 4000
+            },
+            {
+              "spend": 700000,
+              "base": 16000,
+              "promotion": 1000
+            },
+            {
+              "spend": 1300000,
+              "base": 20000,
+              "promotion": 0
+            }
+          ],
+          "conditions": "기간 내 Mastercard 구독료 자동이체 등록 및 전월 인정 실적 충족. 국내전용은 프로모션 제외. 1회 자동납부 7만원 이상일 때만 별도 1만 포인트 적립(월 1회). 포인트는 월요금 차감에 포함하지 않음. 세금·공과금·상품권 등 실적 제외.",
+          "source_url": "https://www.lge.co.kr/care-solutions/rentalService-benefits?rental-scrvice=card-recommendation"
+        }
+      ],
+      "purchase_benefits": {
+        "member_price": 2021000,
+        "coupon_price": null,
+        "coupon_name": null,
+        "coupon_discount": 0,
+        "max_benefit_price": 1879600,
+        "settlement_discount": 141400,
+        "payment_cards": [],
+        "installment_cards": [],
+        "simple_payment": [],
+        "additional": [
+          {
+            "title": "2개 이상 구매 시 다품목할인",
+            "description": "상품·결합 조건 충족 여부는 해당 공식 안내에서 확인합니다. 현재 가격에서 자동 차감하지 않습니다.",
+            "url": "https://www.lge.co.kr/benefits/exhibitions/multiple-products"
+          },
+          {
+            "title": "가구 + 가전 함께 구매 시 결합할인",
+            "description": "상품·결합 조건 충족 여부는 해당 공식 안내에서 확인합니다. 현재 가격에서 자동 차감하지 않습니다.",
+            "url": "https://homestyle.lge.co.kr/exhibition/detail?exhibitionId=2510000167"
+          }
+        ],
+        "notice": "공식 페이지에 표시된 회원가·쿠폰가·최대혜택가입니다. 앱전용 쿠폰은 앱·다운로드·적용 자격에 따라 달라집니다. 최대혜택가는 실제 결제액이 아니며 카드·추가혜택 조건을 확인해야 합니다.",
+        "installment_notice": "카드별 할인·할부 상세는 이번 공개 페이지 수집에서 확인하지 않았습니다.",
+        "checked_at": "2026-10-13",
+        "source_url": "https://www.lge.co.kr/product/water-purifiers/wu923awb",
+        "historical_coupon": {
+          "coupon_name": "[앱전용] LGE.COM 앱전용 쿠폰(12만원)",
+          "coupon_discount": 120000,
+          "coupon_price": 1901000,
+          "checked_at": "2026-10-07",
+          "source_url": "https://www.lge.co.kr/product/water-purifiers/wu923awb"
+        },
+        "historical_payment_cards": [
+          {
+            "name": "신한카드",
+            "benefit": "7% (최대 100만 원) 결제일 할인",
+            "condition": "(50만 원 이상 결제 시 적용)"
+          },
+          {
+            "name": "현대카드",
+            "benefit": "7% (최대 100만 원) 결제일 할인",
+            "condition": "(50만 원 이상 결제 시 적용)"
+          },
+          {
+            "name": "롯데카드",
+            "benefit": "7% (최대 100만 원) 결제일 할인",
+            "condition": "(50만 원 이상 결제 시 적용)"
+          },
+          {
+            "name": "KB국민카드",
+            "benefit": "7% (최대 100만 원) 결제일 할인",
+            "condition": "(50만 원 이상 결제 시 적용)"
+          },
+          {
+            "name": "우리카드",
+            "benefit": "7% (최대 100만 원) 결제일 할인",
+            "condition": "(50만 원 이상 결제 시 적용)"
+          }
+        ],
+        "historical_payment_checked_at": "2026-10-07",
+        "historical_installment_cards": [
+          {
+            "name": "LGE.COM 신한카드",
+            "periods": [
+              {
+                "period": "12개월 무이자",
+                "condition": "(100만 원 이상 결제 시 적용)"
+              },
+              {
+                "period": "2~3개월 무이자",
+                "condition": "(5만 원 이상 결제 시 적용)"
+              }
+            ]
+          },
+          {
+            "name": "신한카드",
+            "periods": [
+              {
+                "period": "12개월 무이자",
+                "condition": "(100만 원 이상 결제 시 적용)"
+              },
+              {
+                "period": "2~3개월 무이자",
+                "condition": "(5만 원 이상 결제 시 적용)"
+              }
+            ]
+          },
+          {
+            "name": "현대카드",
+            "periods": [
+              {
+                "period": "12개월 무이자",
+                "condition": "(100만 원 이상 결제 시 적용)"
+              },
+              {
+                "period": "2~3개월 무이자",
+                "condition": "(5만 원 이상 결제 시 적용)"
+              }
+            ]
+          },
+          {
+            "name": "롯데카드",
+            "periods": [
+              {
+                "period": "12개월 무이자",
+                "condition": "(100만 원 이상 결제 시 적용)"
+              },
+              {
+                "period": "2~3개월 무이자",
+                "condition": "(5만 원 이상 결제 시 적용)"
+              }
+            ]
+          },
+          {
+            "name": "KB국민카드",
+            "periods": [
+              {
+                "period": "12개월 무이자",
+                "condition": "(100만 원 이상 결제 시 적용)"
+              },
+              {
+                "period": "2~3개월 무이자",
+                "condition": "(5만 원 이상 결제 시 적용)"
+              }
+            ]
+          },
+          {
+            "name": "하나Pay카드",
+            "periods": [
+              {
+                "period": "12개월 무이자",
+                "condition": "(100만 원 이상 결제 시 적용)"
+              },
+              {
+                "period": "2~5개월 무이자",
+                "condition": "(5만 원 이상 결제 시 적용)"
+              }
+            ]
+          },
+          {
+            "name": "우리카드",
+            "periods": [
+              {
+                "period": "12개월 무이자",
+                "condition": "(100만 원 이상 결제 시 적용)"
+              },
+              {
+                "period": "2~5개월 무이자",
+                "condition": "(5만 원 이상 결제 시 적용)"
+              }
+            ]
+          },
+          {
+            "name": "비씨카드",
+            "periods": [
+              {
+                "period": "2~5개월 무이자",
+                "condition": "(5만 원 이상 결제 시 적용)"
+              }
+            ]
+          },
+          {
+            "name": "NH농협카드",
+            "periods": [
+              {
+                "period": "2~6개월 무이자",
+                "condition": "(5만 원 이상 결제 시 적용)"
+              }
+            ]
+          },
+          {
+            "name": "삼성카드",
+            "periods": [
+              {
+                "period": "2~3개월 무이자",
+                "condition": "(5만 원 이상 결제 시 적용)"
+              }
+            ]
+          }
+        ]
+      },
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD121MCB",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기 (라이트온, 정수전용)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10894829/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd121mcb?modelId=MD10894829&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "132 x 358 x 230 mm",
+        "냉수": false,
+        "온수": false,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": false,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD121MCB-SPEC",
+          "title": "WD121MCB 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd121mcb?modelId=MD10894829&pdpType=PURCHASE",
+          "model_id": "WD121MCB",
+          "section": "스펙 / 정수전용",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD121MCB",
+          "title": "WD121MCB 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd121mcb?modelId=MD10894829&pdpType=PURCHASE",
+          "model_id": "WD121MCB",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 18900,
+      "price_checked_at": "2026-10-08",
+      "price_note": "선택 조건: 72개월 · 자가관리 조건 확인 필요. 기본 월요금 18,900원. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price": 976000,
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD121MHB",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기 (라이트온, 정수전용)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10894830/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd121mhb?modelId=MD10894830&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "132 x 358 x 230 mm",
+        "냉수": false,
+        "온수": false,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": false,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD121MHB-SPEC",
+          "title": "WD121MHB 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/care-solutions/water-purifiers/wd121mhb?modelId=MD10894830&pdpType=SUBSCRIPTION",
+          "model_id": "WD121MHB",
+          "section": "스펙 / 정수전용",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD121MHB",
+          "title": "WD121MHB 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd121mhb?modelId=MD10894830&pdpType=PURCHASE",
+          "model_id": "WD121MHB",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 9400,
+      "price_checked_at": "2026-10-08",
+      "price_note": "선택 조건: 72개월 · 자가관리 조건 확인 필요. 기본 월요금 18,900원. 표시 할인 월요금 9,400원. 1~12회차 이용 요금이며, 13회차부터 변경됩니다. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price": 861000,
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD121MNB",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기 (라이트온, 정수전용)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10894831/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd121mnb?modelId=MD10894831&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "132 x 358 x 230 mm",
+        "냉수": false,
+        "온수": false,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": false,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD121MNB-SPEC",
+          "title": "WD121MNB 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/care-solutions/water-purifiers/wd121mnb?modelId=MD10894831&pdpType=SUBSCRIPTION",
+          "model_id": "WD121MNB",
+          "section": "스펙 / 정수전용",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD121MNB",
+          "title": "WD121MNB 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd121mnb?modelId=MD10894831&pdpType=PURCHASE",
+          "model_id": "WD121MNB",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 18900,
+      "price_checked_at": "2026-10-08",
+      "price_note": "선택 조건: 72개월 · 자가관리 조건 확인 필요. 기본 월요금 18,900원. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price": 976000,
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD221MCB",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(라이트온, 온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10894832/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd221mcb?modelId=MD10894832&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "132 x 358 x 230 mm",
+        "냉수": false,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": false,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD221MCB-SPEC",
+          "title": "WD221MCB 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd221mcb?modelId=MD10894832&pdpType=PURCHASE",
+          "model_id": "WD221MCB",
+          "section": "스펙 / 온정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD221MCB",
+          "title": "WD221MCB 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd221mcb?modelId=MD10894832&pdpType=PURCHASE",
+          "model_id": "WD221MCB",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 21900,
+      "price_checked_at": "2026-10-08",
+      "price_note": "선택 조건: 72개월 · 자가관리 조건 확인 필요. 기본 월요금 21,900원. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price": 1195000,
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD221MHB",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(라이트온, 온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10894833/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd221mhb?modelId=MD10894833&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "132 x 358 x 230 mm",
+        "냉수": false,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": false,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD221MHB-SPEC",
+          "title": "WD221MHB 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd221mhb?modelId=MD10894833&pdpType=PURCHASE",
+          "model_id": "WD221MHB",
+          "section": "스펙 / 온정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD221MHB",
+          "title": "WD221MHB 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd221mhb?modelId=MD10894833&pdpType=PURCHASE",
+          "model_id": "WD221MHB",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 10900,
+      "price_checked_at": "2026-10-08",
+      "price_note": "선택 조건: 72개월 · 자가관리 조건 확인 필요. 기본 월요금 21,900원. 표시 할인 월요금 10,900원. 1~12회차 이용 요금이며, 13회차부터 변경됩니다. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price": 956000,
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD221MNB",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(라이트온, 온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10894834/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd221mnb?modelId=MD10894834&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "132 x 358 x 230 mm",
+        "냉수": false,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": false,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD221MNB-SPEC",
+          "title": "WD221MNB 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd221mnb?modelId=MD10894834&pdpType=PURCHASE",
+          "model_id": "WD221MNB",
+          "section": "스펙 / 온정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD221MNB",
+          "title": "WD221MNB 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd221mnb?modelId=MD10894834&pdpType=PURCHASE",
+          "model_id": "WD221MNB",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "purchase_price": 1195000,
+      "price_checked_at": "2026-10-08",
+      "price_note": " 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD323ACB",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(맞춤 출수, 냉정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md09976827/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd323acb?modelId=MD09976827&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "168 x 398 x 400 mm",
+        "냉수": true,
+        "온수": false,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": false,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD323ACB-SPEC",
+          "title": "WD323ACB 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd323acb?modelId=MD09976827&pdpType=PURCHASE",
+          "model_id": "WD323ACB",
+          "section": "스펙 / 냉정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD323ACB",
+          "title": "WD323ACB 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd323acb?modelId=MD09976827&pdpType=PURCHASE",
+          "model_id": "WD323ACB",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 28900,
+      "price_checked_at": "2026-10-08",
+      "price_note": "선택 조건: 72개월 · 자가관리 조건 확인 필요. 기본 월요금 28,900원. 1회차 이용 요금이며, 2회차부터 변경됩니다. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price": 1598000,
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD323AWB",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(맞춤 출수, 냉정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md09976826/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd323awb?modelId=MD09976826&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "168 x 398 x 400 mm",
+        "냉수": true,
+        "온수": false,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": false,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD323AWB-SPEC",
+          "title": "WD323AWB 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/care-solutions/water-purifiers/wd323awb?modelId=MD09976826&pdpType=SUBSCRIPTION",
+          "model_id": "WD323AWB",
+          "section": "스펙 / 냉정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD323AWB",
+          "title": "WD323AWB 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd323awb?modelId=MD09976826&pdpType=PURCHASE",
+          "model_id": "WD323AWB",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 28900,
+      "price_checked_at": "2026-10-08",
+      "price_note": "선택 조건: 72개월 · 자가관리 조건 확인 필요. 기본 월요금 28,900원. 1회차 이용 요금이며, 2회차부터 변경됩니다. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price": 1598000,
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD325AHB",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(상하좌우, 냉정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md09018828/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd325ahb?modelId=MD10353831&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "170 x 419 x 550 mm",
+        "냉수": true,
+        "온수": false,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": null,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD325AHB-SPEC",
+          "title": "WD325AHB 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd325ahb?modelId=MD10353831&pdpType=PURCHASE",
+          "model_id": "WD325AHB",
+          "section": "스펙 / 냉정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD325AHB",
+          "title": "WD325AHB 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd325ahb?modelId=MD10353831&pdpType=PURCHASE",
+          "model_id": "WD325AHB",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "purchase_price": 1260000,
+      "price_checked_at": "2026-10-08",
+      "price_note": " 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD325AS",
+      "display_name": "LG 퓨리케어 정수기(상하좌우, 냉정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md09018829/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd325as?modelId=MD10017847&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "170 x 419 x 550 mm",
+        "냉수": true,
+        "온수": false,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": null,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD325AS-SPEC",
+          "title": "WD325AS 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd325as?modelId=MD10017847&pdpType=PURCHASE",
+          "model_id": "WD325AS",
+          "section": "스펙 / 냉정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD325AS",
+          "title": "WD325AS 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd325as?modelId=MD10017847&pdpType=PURCHASE",
+          "model_id": "WD325AS",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "purchase_price": 1451000,
+      "price_checked_at": "2026-10-08",
+      "price_note": " 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD520ACB",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(맞춤 lite, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md09951826/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd520acb?modelId=MD09951826&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "168 x 398 x 400 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": false,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD520ACB-SPEC",
+          "title": "WD520ACB 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd520acb?modelId=MD09951826&pdpType=PURCHASE",
+          "model_id": "WD520ACB",
+          "section": "스펙 / 냉온정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD520ACB",
+          "title": "WD520ACB 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd520acb?modelId=MD09951826&pdpType=PURCHASE",
+          "model_id": "WD520ACB",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 27900,
+      "price_checked_at": "2026-10-08",
+      "price_note": "선택 조건: 72개월 · 자가관리 조건 확인 필요. 기본 월요금 27,900원. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price": 1220000,
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD520AWB",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(맞춤 lite, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md09951827/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd520awb?modelId=MD09951827&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "168 x 398 x 400 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": false,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD520AWB-SPEC",
+          "title": "WD520AWB 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd520awb?modelId=MD09951827&pdpType=PURCHASE",
+          "model_id": "WD520AWB",
+          "section": "스펙 / 냉온정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD520AWB",
+          "title": "WD520AWB 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd520awb?modelId=MD09951827&pdpType=PURCHASE",
+          "model_id": "WD520AWB",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 14400,
+      "price_checked_at": "2026-10-08",
+      "price_note": "선택 조건: 72개월 · 자가관리 조건 확인 필요. 기본 월요금 28,900원. 표시 할인 월요금 14,400원. 1~12회차 이용 요금이며, 13회차부터 변경됩니다. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price": 1328000,
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD520MC",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(라이트온, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10699832/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd520mc?modelId=MD10699832&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "132 x 363 x 425 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": false,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD520MC-SPEC",
+          "title": "WD520MC 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd520mc?modelId=MD10699832&pdpType=PURCHASE",
+          "model_id": "WD520MC",
+          "section": "스펙 / 냉온정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD520MC",
+          "title": "WD520MC 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd520mc?modelId=MD10699832&pdpType=PURCHASE",
+          "model_id": "WD520MC",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 30900,
+      "price_checked_at": "2026-10-08",
+      "price_note": "선택 조건: 72개월 · 자가관리 조건 확인 필요. 기본 월요금 30,900원. 1회차 이용 요금이며, 2회차부터 변경됩니다. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price": 1716000,
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD520MH",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(라이트온, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10699831/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd520mh?modelId=MD10699831&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "132 x 363 x 425 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": false,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD520MH-SPEC",
+          "title": "WD520MH 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd520mh?modelId=MD10699831&pdpType=PURCHASE",
+          "model_id": "WD520MH",
+          "section": "스펙 / 냉온정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD520MH",
+          "title": "WD520MH 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd520mh?modelId=MD10699831&pdpType=PURCHASE",
+          "model_id": "WD520MH",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 15400,
+      "price_checked_at": "2026-10-08",
+      "price_note": "선택 조건: 72개월 · 자가관리 조건 확인 필요. 기본 월요금 30,900원. 표시 할인 월요금 15,400원. 1~12회차 이용 요금이며, 13회차부터 변경됩니다. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price": 1716000,
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD520MN",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(라이트온, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10699833/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd520mn?modelId=MD10699833&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "132 x 363 x 425 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": false,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD520MN-SPEC",
+          "title": "WD520MN 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd520mn?modelId=MD10699833&pdpType=PURCHASE",
+          "model_id": "WD520MN",
+          "section": "스펙 / 냉온정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD520MN",
+          "title": "WD520MN 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd520mn?modelId=MD10699833&pdpType=PURCHASE",
+          "model_id": "WD520MN",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "purchase_price": 1716000,
+      "price_checked_at": "2026-10-08",
+      "price_note": " 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD520VHT",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(맞춤 lite, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10801847/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd520vht?modelId=MD10801847&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "168 x 398 x 400 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": null,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD520VHT-SPEC",
+          "title": "WD520VHT 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd520vht?modelId=MD10801847&pdpType=PURCHASE",
+          "model_id": "WD520VHT",
+          "section": "스펙 / 냉온정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD520VHT",
+          "title": "WD520VHT 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd520vht?modelId=MD10801847&pdpType=PURCHASE",
+          "model_id": "WD520VHT",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "purchase_price": 1455000,
+      "price_checked_at": "2026-10-08",
+      "price_note": " 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD523ACB",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(맞춤 출수, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10017831/gallery/medium09.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd523acb?modelId=MD10017831&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "168 x 398 x 400 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": false,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD523ACB-SPEC",
+          "title": "WD523ACB 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd523acb?modelId=MD10017831&pdpType=PURCHASE",
+          "model_id": "WD523ACB",
+          "section": "스펙 / 냉온정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD523ACB",
+          "title": "WD523ACB 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd523acb?modelId=MD10017831&pdpType=PURCHASE",
+          "model_id": "WD523ACB",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "purchase_price": 1454000,
+      "price_checked_at": "2026-10-08",
+      "price_note": " 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD523AWB",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(맞춤 출수, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10017832/gallery/medium09.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd523awb?modelId=MD10017832&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "168 x 398 x 400 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": false,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD523AWB-SPEC",
+          "title": "WD523AWB 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd523awb?modelId=MD10017832&pdpType=PURCHASE",
+          "model_id": "WD523AWB",
+          "section": "스펙 / 냉온정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD523AWB",
+          "title": "WD523AWB 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd523awb?modelId=MD10017832&pdpType=PURCHASE",
+          "model_id": "WD523AWB",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "purchase_price": 1498000,
+      "price_checked_at": "2026-10-08",
+      "price_note": " 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD523VCT",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(맞춤 출수, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10801834/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd523vct?modelId=MD10801834&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "168 x 398 x 400 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": null,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD523VCT-SPEC",
+          "title": "WD523VCT 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd523vct?modelId=MD10801834&pdpType=PURCHASE",
+          "model_id": "WD523VCT",
+          "section": "스펙 / 냉온정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD523VCT",
+          "title": "WD523VCT 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd523vct?modelId=MD10801834&pdpType=PURCHASE",
+          "model_id": "WD523VCT",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 32900,
+      "price_checked_at": "2026-10-08",
+      "price_note": "선택 조건: 72개월 · 자가관리 조건 확인 필요. 기본 월요금 32,900원. 1회차 이용 요금이며, 2회차부터 변경됩니다. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price": 1891000,
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD523VHT",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(맞춤 출수, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10801835/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd523vht?modelId=MD10801835&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "168 x 398 x 400 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": null,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD523VHT-SPEC",
+          "title": "WD523VHT 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd523vht?modelId=MD10801835&pdpType=PURCHASE",
+          "model_id": "WD523VHT",
+          "section": "스펙 / 냉온정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD523VHT",
+          "title": "WD523VHT 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd523vht?modelId=MD10801835&pdpType=PURCHASE",
+          "model_id": "WD523VHT",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 32900,
+      "price_checked_at": "2026-10-08",
+      "price_note": "선택 조건: 72개월 · 자가관리 조건 확인 필요. 기본 월요금 32,900원. 1회차 이용 요금이며, 2회차부터 변경됩니다. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price": 1891000,
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD523VMT",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(맞춤 출수, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10801837/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd523vmt?modelId=MD10801837&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "168 x 398 x 400 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": null,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD523VMT-SPEC",
+          "title": "WD523VMT 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/care-solutions/water-purifiers/wd523vmt?modelId=MD10801837&pdpType=SUBSCRIPTION",
+          "model_id": "WD523VMT",
+          "section": "스펙 / 냉온정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD523VMT",
+          "title": "WD523VMT 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd523vmt?modelId=MD10801837&pdpType=PURCHASE",
+          "model_id": "WD523VMT",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 32900,
+      "price_checked_at": "2026-10-08",
+      "price_note": "선택 조건: 72개월 · 자가관리 조건 확인 필요. 기본 월요금 32,900원. 1회차 이용 요금이며, 2회차부터 변경됩니다. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price": 1891000,
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD523VPT",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(맞춤 출수, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10801838/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd523vpt?modelId=MD10801838&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "168 x 398 x 400 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": null,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD523VPT-SPEC",
+          "title": "WD523VPT 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/care-solutions/water-purifiers/wd523vpt?modelId=MD10801838&pdpType=SUBSCRIPTION",
+          "model_id": "WD523VPT",
+          "section": "스펙 / 냉온정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD523VPT",
+          "title": "WD523VPT 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd523vpt?modelId=MD10801838&pdpType=PURCHASE",
+          "model_id": "WD523VPT",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 32900,
+      "price_checked_at": "2026-10-08",
+      "price_note": "선택 조건: 72개월 · 자가관리 조건 확인 필요. 기본 월요금 32,900원. 1회차 이용 요금이며, 2회차부터 변경됩니다. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price": 1891000,
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD523VST",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(맞춤 출수, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10801836/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd523vst?modelId=MD10801836&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "168 x 398 x 400 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": null,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD523VST-SPEC",
+          "title": "WD523VST 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/care-solutions/water-purifiers/wd523vst?modelId=MD10801836&pdpType=SUBSCRIPTION",
+          "model_id": "WD523VST",
+          "section": "스펙 / 냉온정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD523VST",
+          "title": "WD523VST 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd523vst?modelId=MD10801836&pdpType=PURCHASE",
+          "model_id": "WD523VST",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 32900,
+      "price_checked_at": "2026-10-08",
+      "price_note": "선택 조건: 72개월 · 자가관리 조건 확인 필요. 기본 월요금 32,900원. 1회차 이용 요금이며, 2회차부터 변경됩니다. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price": 1891000,
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD524ACB",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(음성인식/맞춤 출수, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10017826/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd524acb?modelId=MD10017826&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "168 x 398 x 400 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": true,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD524ACB-SPEC",
+          "title": "WD524ACB 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd524acb?modelId=MD10017826&pdpType=PURCHASE",
+          "model_id": "WD524ACB",
+          "section": "스펙 / 냉온정수기",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "purchase_price_status": "unavailable"
+    },
+    {
+      "model_id": "WD524AMB",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(음성인식/맞춤 출수, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10017830/gallery/medium08.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd524amb?modelId=MD10017830&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "168 x 398 x 400 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": true,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD524AMB-SPEC",
+          "title": "WD524AMB 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd524amb?modelId=MD10017830&pdpType=PURCHASE",
+          "model_id": "WD524AMB",
+          "section": "스펙 / 냉온정수기",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "purchase_price_status": "unavailable"
+    },
+    {
+      "model_id": "WD524APB",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(음성인식/맞춤 출수, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10017829/gallery/medium08.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd524apb?modelId=MD10017829&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "168 x 398 x 400 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": true,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD524APB-SPEC",
+          "title": "WD524APB 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd524apb?modelId=MD10017829&pdpType=PURCHASE",
+          "model_id": "WD524APB",
+          "section": "스펙 / 냉온정수기",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "purchase_price_status": "unavailable"
+    },
+    {
+      "model_id": "WD524ARB",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(음성인식/맞춤 출수, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10334827/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd524arb?modelId=MD10334827&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "168 x 398 x 400 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": true,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD524ARB-SPEC",
+          "title": "WD524ARB 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd524arb?modelId=MD10334827&pdpType=PURCHASE",
+          "model_id": "WD524ARB",
+          "section": "스펙 / 냉온정수기",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "purchase_price_status": "unavailable"
+    },
+    {
+      "model_id": "WD524ASB",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(음성인식/맞춤 출수, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10017828/gallery/medium08.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd524asb?modelId=MD10017828&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "168 x 398 x 400 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": true,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD524ASB-SPEC",
+          "title": "WD524ASB 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd524asb?modelId=MD10017828&pdpType=PURCHASE",
+          "model_id": "WD524ASB",
+          "section": "스펙 / 냉온정수기",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "purchase_price_status": "unavailable"
+    },
+    {
+      "model_id": "WD524VCT",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(음성인식/맞춤 출수, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10584832/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd524vct?modelId=MD10801841&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "168 x 398 x 400 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": true,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD524VCT-SPEC",
+          "title": "WD524VCT 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd524vct?modelId=MD10801841&pdpType=PURCHASE",
+          "model_id": "WD524VCT",
+          "section": "스펙 / 냉온정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD524VCT",
+          "title": "WD524VCT 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd524vct?modelId=MD10801841&pdpType=PURCHASE",
+          "model_id": "WD524VCT",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 34900,
+      "price_checked_at": "2026-10-08",
+      "price_note": "선택 조건: 72개월 · 자가관리 조건 확인 필요. 기본 월요금 34,900원. 1회차 이용 요금이며, 2회차부터 변경됩니다. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price": 2038000,
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD524VHMT",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(음성인식/맞춤 출수, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10597838/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd524vhmt?modelId=MD10801844&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "168 x 398 x 400 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": true,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD524VHMT-SPEC",
+          "title": "WD524VHMT 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd524vhmt?modelId=MD10801844&pdpType=PURCHASE",
+          "model_id": "WD524VHMT",
+          "section": "스펙 / 냉온정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD524VHMT",
+          "title": "WD524VHMT 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd524vhmt?modelId=MD10801844&pdpType=PURCHASE",
+          "model_id": "WD524VHMT",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 17400,
+      "price_checked_at": "2026-10-08",
+      "price_note": "선택 조건: 72개월 · 자가관리 조건 확인 필요. 기본 월요금 34,900원. 표시 할인 월요금 17,400원. 1~12회차 이용 요금이며, 13회차부터 변경됩니다. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price": 1638000,
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD524VHPT",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(음성인식/맞춤 출수, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10598873/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd524vhpt?modelId=MD10801845&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "168 x 398 x 400 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": true,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD524VHPT-SPEC",
+          "title": "WD524VHPT 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/care-solutions/water-purifiers/wd524vhpt?modelId=MD10801845&pdpType=SUBSCRIPTION",
+          "model_id": "WD524VHPT",
+          "section": "스펙 / 냉온정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD524VHPT",
+          "title": "WD524VHPT 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd524vhpt?modelId=MD10801845&pdpType=PURCHASE",
+          "model_id": "WD524VHPT",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 17400,
+      "price_checked_at": "2026-10-08",
+      "price_note": "선택 조건: 72개월 · 자가관리 조건 확인 필요. 기본 월요금 34,900원. 표시 할인 월요금 17,400원. 1~12회차 이용 요금이며, 13회차부터 변경됩니다. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price": 1638000,
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD524VHT",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(음성인식/맞춤 출수, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10599835/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd524vht?modelId=MD10801842&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "168 x 398 x 400 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": true,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD524VHT-SPEC",
+          "title": "WD524VHT 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd524vht?modelId=MD10801842&pdpType=PURCHASE",
+          "model_id": "WD524VHT",
+          "section": "스펙 / 냉온정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD524VHT",
+          "title": "WD524VHT 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd524vht?modelId=MD10801842&pdpType=PURCHASE",
+          "model_id": "WD524VHT",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "purchase_price": 2038000,
+      "price_checked_at": "2026-10-08",
+      "price_note": " 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD524VST",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(음성인식/맞춤 출수, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10606848/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd524vst?modelId=MD10801843&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "168 x 398 x 400 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": true,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD524VST-SPEC",
+          "title": "WD524VST 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd524vst?modelId=MD10801843&pdpType=PURCHASE",
+          "model_id": "WD524VST",
+          "section": "스펙 / 냉온정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD524VST",
+          "title": "WD524VST 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd524vst?modelId=MD10801843&pdpType=PURCHASE",
+          "model_id": "WD524VST",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "purchase_price": 2038000,
+      "price_checked_at": "2026-10-08",
+      "price_note": " 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD525ACB",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(상하좌우, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10017842/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd525acb?modelId=MD10017842&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "170 x 419 x 550 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": null,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD525ACB-SPEC",
+          "title": "WD525ACB 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd525acb?modelId=MD10017842&pdpType=PURCHASE",
+          "model_id": "WD525ACB",
+          "section": "스펙 / 냉온정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD525ACB",
+          "title": "WD525ACB 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd525acb?modelId=MD10017842&pdpType=PURCHASE",
+          "model_id": "WD525ACB",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 29900,
+      "price_checked_at": "2026-10-08",
+      "price_note": "선택 조건: 72개월 · 자가관리 조건 확인 필요. 기본 월요금 29,900원. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price": 1337000,
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD525AGB",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(상하좌우, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10017843/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd525agb?modelId=MD10017843&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "170 x 419 x 550 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": null,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD525AGB-SPEC",
+          "title": "WD525AGB 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/care-solutions/water-purifiers/wd525agb?modelId=MD10017843&pdpType=SUBSCRIPTION",
+          "model_id": "WD525AGB",
+          "section": "스펙 / 냉온정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD525AGB",
+          "title": "WD525AGB 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd525agb?modelId=MD10017843&pdpType=PURCHASE",
+          "model_id": "WD525AGB",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 29900,
+      "price_checked_at": "2026-10-08",
+      "price_note": "선택 조건: 72개월 · 자가관리 조건 확인 필요. 기본 월요금 29,900원. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price": 1337000,
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD525AHB",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(상하좌우, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10353830/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd525ahb?modelId=MD10353830&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "170 x 419 x 550 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": null,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD525AHB-SPEC",
+          "title": "WD525AHB 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd525ahb?modelId=MD10353830&pdpType=PURCHASE",
+          "model_id": "WD525AHB",
+          "section": "스펙 / 냉온정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD525AHB",
+          "title": "WD525AHB 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd525ahb?modelId=MD10353830&pdpType=PURCHASE",
+          "model_id": "WD525AHB",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "purchase_price": 1246000,
+      "price_checked_at": "2026-10-08",
+      "price_note": " 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD525AS",
+      "display_name": "LG 퓨리케어 정수기(상하좌우, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md09018827/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd525as?modelId=MD10017845&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "170 x 419 x 550 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": null,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD525AS-SPEC",
+          "title": "WD525AS 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/care-solutions/water-purifiers/wd525as?modelId=MD10017845&pdpType=SUBSCRIPTION",
+          "model_id": "WD525AS",
+          "section": "스펙 / 냉온정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD525AS",
+          "title": "WD525AS 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd525as?modelId=MD10017845&pdpType=PURCHASE",
+          "model_id": "WD525AS",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 29900,
+      "price_checked_at": "2026-10-08",
+      "price_note": "선택 조건: 72개월 · 자가관리 조건 확인 필요. 기본 월요금 29,900원. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price": 1337000,
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WD721RE",
+      "display_name": "LG 퓨리케어 오브제컬렉션 냉동얼음정수기",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10597923/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd721re?modelId=MD10597923&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "240 x 465 x 497 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": true,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": null,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD721RE-SPEC",
+          "title": "WD721RE 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd721re?modelId=MD10597923&pdpType=PURCHASE",
+          "model_id": "WD721RE",
+          "section": "스펙 / 냉온정수기(제빙기 겸용)",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD721RE",
+          "title": "WD721RE 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd721re?modelId=MD10597923&pdpType=PURCHASE",
+          "model_id": "WD721RE",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD721RE",
+          "title": "WD721RE 공식 공개 구매 가격·혜택",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd721re?modelId=MD10597923&pdpType=PURCHASE",
+          "checked_at": "2026-10-13",
+          "model_id": "WD721RE",
+          "section": "미로그인 공개 가격 표시"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 22400,
+      "price_checked_at": "2026-10-13",
+      "price_note": "선택 조건: 72개월 · 방문관리 6개월 주기. 기본 월요금 50,900원. 표시 할인 월요금 22,400원. 1~12회차 이용 요금이며, 13회차부터 변경됩니다. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원가·최대혜택가는 2026-10-13 미로그인 공개 표시값입니다. 현재 앱 쿠폰 미노출과 2026-10-08 이전 확인 기록을 구분합니다. 구독 월요금은 2026-10-08의 별도 선택 조건 스냅샷입니다.",
+      "purchase_price": 2089000,
+      "purchase_price_status": "available",
+      "purchase_benefits": {
+        "payment_cards": [],
+        "installment_cards": [],
+        "simple_payment": [],
+        "additional": [
+          {
+            "title": "2개 이상 구매 시 다품목할인",
+            "description": "상품·결합 조건 충족 여부는 해당 공식 안내에서 확인합니다. 현재 가격에서 자동 차감하지 않습니다.",
+            "url": "https://www.lge.co.kr/benefits/exhibitions/multiple-products"
+          },
+          {
+            "title": "가구 + 가전 함께 구매 시 결합할인",
+            "description": "상품·결합 조건 충족 여부는 해당 공식 안내에서 확인합니다. 현재 가격에서 자동 차감하지 않습니다.",
+            "url": "https://homestyle.lge.co.kr/exhibition/detail?exhibitionId=2510000167"
+          }
+        ],
+        "installment_notice": "카드별 할부·결제 자격은 이 수집에서 확인되지 않았습니다. 공식 구매 혜택에서 확인하세요.",
+        "member_price": 2089000,
+        "max_benefit_price": 1942800,
+        "coupon_name": null,
+        "coupon_discount": 0,
+        "settlement_discount": 146200,
+        "coupon_price": null,
+        "checked_at": "2026-10-13",
+        "source_url": "https://www.lge.co.kr/product/water-purifiers/wd721re?modelId=MD10597923&pdpType=PURCHASE",
+        "notice": "공식 페이지에 표시된 회원가·쿠폰가·최대혜택가입니다. 앱전용 쿠폰은 앱·다운로드·적용 자격에 따라 달라집니다. 최대혜택가는 실제 결제액이 아니며 카드·추가혜택 조건을 확인해야 합니다.",
+        "historical_coupon": {
+          "coupon_name": "[앱전용] LGE.COM 앱전용 쿠폰(12만원)",
+          "coupon_price": 1969000,
+          "coupon_discount": 120000,
+          "checked_at": "2026-10-08",
+          "source_url": "https://www.lge.co.kr/product/water-purifiers/wd721re?modelId=MD10597923&pdpType=PURCHASE"
+        }
+      }
+    },
+    {
+      "model_id": "WD721RH",
+      "display_name": "LG 퓨리케어 오브제컬렉션 냉동얼음정수기",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10545831/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd721rh?modelId=MD10545831&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "240 x 465 x 497 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": true,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": null,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD721RH-SPEC",
+          "title": "WD721RH 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd721rh?modelId=MD10545831&pdpType=PURCHASE",
+          "model_id": "WD721RH",
+          "section": "스펙 / 냉온정수기(제빙기 겸용)",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD721RH",
+          "title": "WD721RH 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd721rh?modelId=MD10545831&pdpType=PURCHASE",
+          "model_id": "WD721RH",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD721RH",
+          "title": "WD721RH 공식 공개 구매 가격·혜택",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd721rh?modelId=MD10545831&pdpType=PURCHASE",
+          "checked_at": "2026-10-13",
+          "model_id": "WD721RH",
+          "section": "미로그인 공개 가격 표시"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 22400,
+      "price_checked_at": "2026-10-13",
+      "price_note": "선택 조건: 72개월 · 방문관리 6개월 주기. 기본 월요금 50,900원. 표시 할인 월요금 22,400원. 1~12회차 이용 요금이며, 13회차부터 변경됩니다. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원가·최대혜택가는 2026-10-13 미로그인 공개 표시값입니다. 현재 앱 쿠폰 미노출과 2026-10-08 이전 확인 기록을 구분합니다. 구독 월요금은 2026-10-08의 별도 선택 조건 스냅샷입니다.",
+      "purchase_price": 2089000,
+      "purchase_price_status": "available",
+      "purchase_benefits": {
+        "payment_cards": [],
+        "installment_cards": [],
+        "simple_payment": [],
+        "additional": [
+          {
+            "title": "2개 이상 구매 시 다품목할인",
+            "description": "상품·결합 조건 충족 여부는 해당 공식 안내에서 확인합니다. 현재 가격에서 자동 차감하지 않습니다.",
+            "url": "https://www.lge.co.kr/benefits/exhibitions/multiple-products"
+          },
+          {
+            "title": "가구 + 가전 함께 구매 시 결합할인",
+            "description": "상품·결합 조건 충족 여부는 해당 공식 안내에서 확인합니다. 현재 가격에서 자동 차감하지 않습니다.",
+            "url": "https://homestyle.lge.co.kr/exhibition/detail?exhibitionId=2510000167"
+          }
+        ],
+        "installment_notice": "카드별 할부·결제 자격은 이 수집에서 확인되지 않았습니다. 공식 구매 혜택에서 확인하세요.",
+        "member_price": 2089000,
+        "max_benefit_price": 1942800,
+        "coupon_name": null,
+        "coupon_discount": 0,
+        "settlement_discount": 146200,
+        "coupon_price": null,
+        "checked_at": "2026-10-13",
+        "source_url": "https://www.lge.co.kr/product/water-purifiers/wd721rh?modelId=MD10545831&pdpType=PURCHASE",
+        "notice": "공식 페이지에 표시된 회원가·쿠폰가·최대혜택가입니다. 앱전용 쿠폰은 앱·다운로드·적용 자격에 따라 달라집니다. 최대혜택가는 실제 결제액이 아니며 카드·추가혜택 조건을 확인해야 합니다.",
+        "historical_coupon": {
+          "coupon_name": "[앱전용] LGE.COM 앱전용 쿠폰(12만원)",
+          "coupon_price": 1969000,
+          "coupon_discount": 120000,
+          "checked_at": "2026-10-08",
+          "source_url": "https://www.lge.co.kr/product/water-purifiers/wd721rh?modelId=MD10545831&pdpType=PURCHASE"
+        }
+      }
+    },
+    {
+      "model_id": "WD721RK",
+      "display_name": "LG 퓨리케어 오브제컬렉션 냉동얼음정수기",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10375826/gallery/medium02.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd721rk?modelId=MD10545832&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "240 x 465 x 497 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": true,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": null,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD721RK-SPEC",
+          "title": "WD721RK 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd721rk?modelId=MD10545832&pdpType=PURCHASE",
+          "model_id": "WD721RK",
+          "section": "스펙 / 냉온정수기(제빙기 겸용)",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD721RK",
+          "title": "WD721RK 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd721rk?modelId=MD10545832&pdpType=PURCHASE",
+          "model_id": "WD721RK",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD721RK",
+          "title": "WD721RK 공식 공개 구매 가격·혜택",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd721rk?modelId=MD10545832&pdpType=PURCHASE",
+          "checked_at": "2026-10-13",
+          "model_id": "WD721RK",
+          "section": "미로그인 공개 가격 표시"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 22400,
+      "price_checked_at": "2026-10-13",
+      "price_note": "선택 조건: 72개월 · 방문관리 6개월 주기. 기본 월요금 50,900원. 표시 할인 월요금 22,400원. 1~12회차 이용 요금이며, 13회차부터 변경됩니다. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원가·최대혜택가는 2026-10-13 미로그인 공개 표시값입니다. 현재 앱 쿠폰 미노출과 2026-10-08 이전 확인 기록을 구분합니다. 구독 월요금은 2026-10-08의 별도 선택 조건 스냅샷입니다.",
+      "purchase_price": 2089000,
+      "purchase_price_status": "available",
+      "purchase_benefits": {
+        "payment_cards": [],
+        "installment_cards": [],
+        "simple_payment": [],
+        "additional": [
+          {
+            "title": "2개 이상 구매 시 다품목할인",
+            "description": "상품·결합 조건 충족 여부는 해당 공식 안내에서 확인합니다. 현재 가격에서 자동 차감하지 않습니다.",
+            "url": "https://www.lge.co.kr/benefits/exhibitions/multiple-products"
+          },
+          {
+            "title": "가구 + 가전 함께 구매 시 결합할인",
+            "description": "상품·결합 조건 충족 여부는 해당 공식 안내에서 확인합니다. 현재 가격에서 자동 차감하지 않습니다.",
+            "url": "https://homestyle.lge.co.kr/exhibition/detail?exhibitionId=2510000167"
+          }
+        ],
+        "installment_notice": "카드별 할부·결제 자격은 이 수집에서 확인되지 않았습니다. 공식 구매 혜택에서 확인하세요.",
+        "member_price": 2089000,
+        "max_benefit_price": 1942800,
+        "coupon_name": null,
+        "coupon_discount": 0,
+        "settlement_discount": 146200,
+        "coupon_price": null,
+        "checked_at": "2026-10-13",
+        "source_url": "https://www.lge.co.kr/product/water-purifiers/wd721rk?modelId=MD10545832&pdpType=PURCHASE",
+        "notice": "공식 페이지에 표시된 회원가·쿠폰가·최대혜택가입니다. 앱전용 쿠폰은 앱·다운로드·적용 자격에 따라 달라집니다. 최대혜택가는 실제 결제액이 아니며 카드·추가혜택 조건을 확인해야 합니다.",
+        "historical_coupon": {
+          "coupon_name": "[앱전용] LGE.COM 앱전용 쿠폰(12만원)",
+          "coupon_price": 1969000,
+          "coupon_discount": 120000,
+          "checked_at": "2026-10-08",
+          "source_url": "https://www.lge.co.kr/product/water-purifiers/wd721rk?modelId=MD10545832&pdpType=PURCHASE"
+        }
+      }
+    },
+    {
+      "model_id": "WD722RE",
+      "display_name": "LG 퓨리케어 오브제컬렉션 냉동얼음정수기",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10612833/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd722re?modelId=MD10612833&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "240 x 465 x 497 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": true,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": null,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD722RE-SPEC",
+          "title": "WD722RE 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd722re?modelId=MD10612833&pdpType=PURCHASE",
+          "model_id": "WD722RE",
+          "section": "스펙 / 냉온정수기(제빙기 겸용)",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD722RE",
+          "title": "WD722RE 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd722re?modelId=MD10612833&pdpType=PURCHASE",
+          "model_id": "WD722RE",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD722RE",
+          "title": "WD722RE 공식 공개 구매 가격·혜택",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd722re?modelId=MD10612833&pdpType=PURCHASE",
+          "checked_at": "2026-10-13",
+          "model_id": "WD722RE",
+          "section": "미로그인 공개 가격 표시"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 51900,
+      "price_checked_at": "2026-10-13",
+      "price_note": "선택 조건: 72개월 · 방문관리 6개월 주기. 기본 월요금 51,900원. 1회차 이용 요금이며, 2회차부터 변경됩니다. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원가·최대혜택가는 2026-10-13 미로그인 공개 표시값입니다. 현재 앱 쿠폰 미노출과 2026-10-08 이전 확인 기록을 구분합니다. 구독 월요금은 2026-10-08의 별도 선택 조건 스냅샷입니다.",
+      "purchase_price": 2926000,
+      "purchase_price_status": "available",
+      "purchase_benefits": {
+        "payment_cards": [],
+        "installment_cards": [],
+        "simple_payment": [],
+        "additional": [
+          {
+            "title": "2개 이상 구매 시 다품목할인",
+            "description": "상품·결합 조건 충족 여부는 해당 공식 안내에서 확인합니다. 현재 가격에서 자동 차감하지 않습니다.",
+            "url": "https://www.lge.co.kr/benefits/exhibitions/multiple-products"
+          },
+          {
+            "title": "가구 + 가전 함께 구매 시 결합할인",
+            "description": "상품·결합 조건 충족 여부는 해당 공식 안내에서 확인합니다. 현재 가격에서 자동 차감하지 않습니다.",
+            "url": "https://homestyle.lge.co.kr/exhibition/detail?exhibitionId=2510000167"
+          }
+        ],
+        "installment_notice": "카드별 할부·결제 자격은 이 수집에서 확인되지 않았습니다. 공식 구매 혜택에서 확인하세요.",
+        "member_price": 2926000,
+        "max_benefit_price": 2721200,
+        "coupon_name": null,
+        "coupon_discount": 0,
+        "settlement_discount": 204800,
+        "coupon_price": null,
+        "checked_at": "2026-10-13",
+        "source_url": "https://www.lge.co.kr/product/water-purifiers/wd722re?modelId=MD10612833&pdpType=PURCHASE",
+        "notice": "공식 페이지에 표시된 회원가·쿠폰가·최대혜택가입니다. 앱전용 쿠폰은 앱·다운로드·적용 자격에 따라 달라집니다. 최대혜택가는 실제 결제액이 아니며 카드·추가혜택 조건을 확인해야 합니다.",
+        "historical_coupon": {
+          "coupon_name": "[앱전용] LGE.COM 앱전용 쿠폰(12만원)",
+          "coupon_price": 2806000,
+          "coupon_discount": 120000,
+          "checked_at": "2026-10-08",
+          "source_url": "https://www.lge.co.kr/product/water-purifiers/wd722re?modelId=MD10612833&pdpType=PURCHASE"
+        }
+      }
+    },
+    {
+      "model_id": "WD722RH",
+      "display_name": "LG 퓨리케어 오브제컬렉션 냉동얼음정수기",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10612831/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd722rh?modelId=MD10612831&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "240 x 465 x 497 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": true,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": null,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD722RH-SPEC",
+          "title": "WD722RH 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd722rh?modelId=MD10612831&pdpType=PURCHASE",
+          "model_id": "WD722RH",
+          "section": "스펙 / 냉온정수기(제빙기 겸용)",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD722RH",
+          "title": "WD722RH 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd722rh?modelId=MD10612831&pdpType=PURCHASE",
+          "model_id": "WD722RH",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD722RH",
+          "title": "WD722RH 공식 공개 구매 가격·혜택",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd722rh?modelId=MD10612831&pdpType=PURCHASE",
+          "checked_at": "2026-10-13",
+          "model_id": "WD722RH",
+          "section": "미로그인 공개 가격 표시"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 51900,
+      "price_checked_at": "2026-10-13",
+      "price_note": "선택 조건: 72개월 · 방문관리 6개월 주기. 기본 월요금 51,900원. 1회차 이용 요금이며, 2회차부터 변경됩니다. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원가·최대혜택가는 2026-10-13 미로그인 공개 표시값입니다. 현재 앱 쿠폰 미노출과 2026-10-08 이전 확인 기록을 구분합니다. 구독 월요금은 2026-10-08의 별도 선택 조건 스냅샷입니다.",
+      "purchase_price": 2926000,
+      "purchase_price_status": "available",
+      "purchase_benefits": {
+        "payment_cards": [],
+        "installment_cards": [],
+        "simple_payment": [],
+        "additional": [
+          {
+            "title": "2개 이상 구매 시 다품목할인",
+            "description": "상품·결합 조건 충족 여부는 해당 공식 안내에서 확인합니다. 현재 가격에서 자동 차감하지 않습니다.",
+            "url": "https://www.lge.co.kr/benefits/exhibitions/multiple-products"
+          },
+          {
+            "title": "가구 + 가전 함께 구매 시 결합할인",
+            "description": "상품·결합 조건 충족 여부는 해당 공식 안내에서 확인합니다. 현재 가격에서 자동 차감하지 않습니다.",
+            "url": "https://homestyle.lge.co.kr/exhibition/detail?exhibitionId=2510000167"
+          }
+        ],
+        "installment_notice": "카드별 할부·결제 자격은 이 수집에서 확인되지 않았습니다. 공식 구매 혜택에서 확인하세요.",
+        "member_price": 2926000,
+        "max_benefit_price": 2721200,
+        "coupon_name": null,
+        "coupon_discount": 0,
+        "settlement_discount": 204800,
+        "coupon_price": null,
+        "checked_at": "2026-10-13",
+        "source_url": "https://www.lge.co.kr/product/water-purifiers/wd722rh?modelId=MD10612831&pdpType=PURCHASE",
+        "notice": "공식 페이지에 표시된 회원가·쿠폰가·최대혜택가입니다. 앱전용 쿠폰은 앱·다운로드·적용 자격에 따라 달라집니다. 최대혜택가는 실제 결제액이 아니며 카드·추가혜택 조건을 확인해야 합니다.",
+        "historical_coupon": {
+          "coupon_name": "[앱전용] LGE.COM 앱전용 쿠폰(12만원)",
+          "coupon_price": 2806000,
+          "coupon_discount": 120000,
+          "checked_at": "2026-10-08",
+          "source_url": "https://www.lge.co.kr/product/water-purifiers/wd722rh?modelId=MD10612831&pdpType=PURCHASE"
+        }
+      }
+    },
+    {
+      "model_id": "WD722RK",
+      "display_name": "LG 퓨리케어 오브제컬렉션 냉동얼음정수기",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10612832/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd722rk?modelId=MD10612832&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "240 x 465 x 497 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": true,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": null,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD722RK-SPEC",
+          "title": "WD722RK 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/care-solutions/water-purifiers/wd722rk?modelId=MD10612832&pdpType=SUBSCRIPTION",
+          "model_id": "WD722RK",
+          "section": "스펙 / 냉온정수기(제빙기 겸용)",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD722RK",
+          "title": "WD722RK 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd722rk?modelId=MD10612832&pdpType=PURCHASE",
+          "model_id": "WD722RK",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD722RK",
+          "title": "WD722RK 공식 공개 구매 가격·혜택",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd722rk?modelId=MD10612832&pdpType=PURCHASE",
+          "checked_at": "2026-10-13",
+          "model_id": "WD722RK",
+          "section": "미로그인 공개 가격 표시"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 51900,
+      "price_checked_at": "2026-10-13",
+      "price_note": "선택 조건: 72개월 · 방문관리 6개월 주기. 기본 월요금 51,900원. 1회차 이용 요금이며, 2회차부터 변경됩니다. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다. 구독 월요금은 2026-10-08의 별도 선택 조건 스냅샷입니다.",
+      "purchase_price": 2926000,
+      "purchase_price_status": "available",
+      "purchase_benefits": {
+        "payment_cards": [],
+        "installment_cards": [],
+        "simple_payment": [],
+        "additional": [],
+        "installment_notice": "카드별 할부·결제 자격은 이 수집에서 확인되지 않았습니다. 공식 구매 혜택에서 확인하세요.",
+        "member_price": 2926000,
+        "max_benefit_price": 2721200,
+        "coupon_name": null,
+        "coupon_discount": 0,
+        "settlement_discount": 204800,
+        "coupon_price": null,
+        "checked_at": "2026-10-13",
+        "source_url": "https://www.lge.co.kr/product/water-purifiers/wd722rk?modelId=MD10612832&pdpType=PURCHASE",
+        "notice": "공식 페이지에 표시된 회원가·쿠폰가·최대혜택가입니다. 앱전용 쿠폰은 앱·다운로드·적용 자격에 따라 달라집니다. 최대혜택가는 실제 결제액이 아니며 카드·추가혜택 조건을 확인해야 합니다."
+      }
+    },
+    {
+      "model_id": "WD723RE",
+      "display_name": "LG 퓨리케어 오브제컬렉션 냉동얼음정수기",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10748849/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd723re?modelId=MD10748849&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "240 x 465 x 497 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": true,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": null,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD723RE-SPEC",
+          "title": "WD723RE 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd723re?modelId=MD10748849&pdpType=PURCHASE",
+          "model_id": "WD723RE",
+          "section": "스펙 / 냉온정수기(제빙기 겸용)",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD723RE",
+          "title": "WD723RE 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd723re?modelId=MD10748849&pdpType=PURCHASE",
+          "model_id": "WD723RE",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD723RE",
+          "title": "WD723RE 공식 공개 구매 가격·혜택",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd723re?modelId=MD10748849&pdpType=PURCHASE",
+          "checked_at": "2026-10-13",
+          "model_id": "WD723RE",
+          "section": "미로그인 공개 가격 표시"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 49900,
+      "price_checked_at": "2026-10-13",
+      "price_note": "선택 조건: 72개월 · 방문관리 6개월 주기. 기본 월요금 49,900원. 1회차 이용 요금이며, 2회차부터 변경됩니다. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원가·최대혜택가는 2026-10-13 미로그인 공개 표시값입니다. 현재 앱 쿠폰 미노출과 2026-10-08 이전 확인 기록을 구분합니다. 구독 월요금은 2026-10-08의 별도 선택 조건 스냅샷입니다.",
+      "purchase_price": 2754000,
+      "purchase_price_status": "available",
+      "purchase_benefits": {
+        "payment_cards": [],
+        "installment_cards": [],
+        "simple_payment": [],
+        "additional": [
+          {
+            "title": "2개 이상 구매 시 다품목할인",
+            "description": "상품·결합 조건 충족 여부는 해당 공식 안내에서 확인합니다. 현재 가격에서 자동 차감하지 않습니다.",
+            "url": "https://www.lge.co.kr/benefits/exhibitions/multiple-products"
+          },
+          {
+            "title": "가구 + 가전 함께 구매 시 결합할인",
+            "description": "상품·결합 조건 충족 여부는 해당 공식 안내에서 확인합니다. 현재 가격에서 자동 차감하지 않습니다.",
+            "url": "https://homestyle.lge.co.kr/exhibition/detail?exhibitionId=2510000167"
+          }
+        ],
+        "installment_notice": "카드별 할부·결제 자격은 이 수집에서 확인되지 않았습니다. 공식 구매 혜택에서 확인하세요.",
+        "member_price": 2754000,
+        "max_benefit_price": 2561300,
+        "coupon_name": null,
+        "coupon_discount": 0,
+        "settlement_discount": 192700,
+        "coupon_price": null,
+        "checked_at": "2026-10-13",
+        "source_url": "https://www.lge.co.kr/product/water-purifiers/wd723re?modelId=MD10748849&pdpType=PURCHASE",
+        "notice": "공식 페이지에 표시된 회원가·쿠폰가·최대혜택가입니다. 앱전용 쿠폰은 앱·다운로드·적용 자격에 따라 달라집니다. 최대혜택가는 실제 결제액이 아니며 카드·추가혜택 조건을 확인해야 합니다.",
+        "historical_coupon": {
+          "coupon_name": "[앱전용] LGE.COM 앱전용 쿠폰(12만원)",
+          "coupon_price": 2634000,
+          "coupon_discount": 120000,
+          "checked_at": "2026-10-08",
+          "source_url": "https://www.lge.co.kr/product/water-purifiers/wd723re?modelId=MD10748849&pdpType=PURCHASE"
+        }
+      }
+    },
+    {
+      "model_id": "WD723RH",
+      "display_name": "LG 퓨리케어 오브제컬렉션 냉동얼음정수기",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10748847/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd723rh?modelId=MD10748847&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "240 x 465 x 497 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": true,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": null,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD723RH-SPEC",
+          "title": "WD723RH 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd723rh?modelId=MD10748847&pdpType=PURCHASE",
+          "model_id": "WD723RH",
+          "section": "스펙 / 냉온정수기(제빙기 겸용)",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD723RH",
+          "title": "WD723RH 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd723rh?modelId=MD10748847&pdpType=PURCHASE",
+          "model_id": "WD723RH",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD723RH",
+          "title": "WD723RH 공식 공개 구매 가격·혜택",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd723rh?modelId=MD10748847&pdpType=PURCHASE",
+          "checked_at": "2026-10-13",
+          "model_id": "WD723RH",
+          "section": "미로그인 공개 가격 표시"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 24900,
+      "price_checked_at": "2026-10-13",
+      "price_note": "선택 조건: 72개월 · 방문관리 6개월 주기. 기본 월요금 49,900원. 표시 할인 월요금 24,900원. 1~12회차 이용 요금이며, 13회차부터 변경됩니다. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원가·최대혜택가는 2026-10-13 미로그인 공개 표시값입니다. 현재 앱 쿠폰 미노출과 2026-10-08 이전 확인 기록을 구분합니다. 구독 월요금은 2026-10-08의 별도 선택 조건 스냅샷입니다.",
+      "purchase_price": 2247000,
+      "purchase_price_status": "available",
+      "purchase_benefits": {
+        "payment_cards": [],
+        "installment_cards": [],
+        "simple_payment": [],
+        "additional": [
+          {
+            "title": "가구 + 가전 함께 구매 시 결합할인",
+            "description": "상품·결합 조건 충족 여부는 해당 공식 안내에서 확인합니다. 현재 가격에서 자동 차감하지 않습니다.",
+            "url": "https://homestyle.lge.co.kr/exhibition/detail?exhibitionId=2510000167"
+          }
+        ],
+        "installment_notice": "카드별 할부·결제 자격은 이 수집에서 확인되지 않았습니다. 공식 구매 혜택에서 확인하세요.",
+        "member_price": 2247000,
+        "max_benefit_price": 2089800,
+        "coupon_name": null,
+        "coupon_discount": 0,
+        "settlement_discount": 157200,
+        "coupon_price": null,
+        "checked_at": "2026-10-13",
+        "source_url": "https://www.lge.co.kr/product/water-purifiers/wd723rh?modelId=MD10748847&pdpType=PURCHASE",
+        "notice": "공식 페이지에 표시된 회원가·쿠폰가·최대혜택가입니다. 앱전용 쿠폰은 앱·다운로드·적용 자격에 따라 달라집니다. 최대혜택가는 실제 결제액이 아니며 카드·추가혜택 조건을 확인해야 합니다.",
+        "historical_coupon": {
+          "coupon_name": "[앱전용] LGE.COM 앱전용 쿠폰(12만원)",
+          "coupon_price": 2127000,
+          "coupon_discount": 120000,
+          "checked_at": "2026-10-08",
+          "source_url": "https://www.lge.co.kr/product/water-purifiers/wd723rh?modelId=MD10748847&pdpType=PURCHASE"
+        }
+      }
+    },
+    {
+      "model_id": "WD723RK",
+      "display_name": "LG 퓨리케어 오브제컬렉션 냉동얼음정수기",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10748848/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd723rk?modelId=MD10748848&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "240 x 465 x 497 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": true,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": null,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD723RK-SPEC",
+          "title": "WD723RK 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/care-solutions/water-purifiers/wd723rk?modelId=MD10748848&pdpType=SUBSCRIPTION",
+          "model_id": "WD723RK",
+          "section": "스펙 / 냉온정수기(제빙기 겸용)",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD723RK",
+          "title": "WD723RK 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd723rk?modelId=MD10748848&pdpType=PURCHASE",
+          "model_id": "WD723RK",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD723RK",
+          "title": "WD723RK 공식 공개 구매 가격·혜택",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd723rk?modelId=MD10748848&pdpType=PURCHASE",
+          "checked_at": "2026-10-13",
+          "model_id": "WD723RK",
+          "section": "미로그인 공개 가격 표시"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 49900,
+      "price_checked_at": "2026-10-13",
+      "price_note": "선택 조건: 72개월 · 방문관리 6개월 주기. 기본 월요금 49,900원. 1회차 이용 요금이며, 2회차부터 변경됩니다. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다. 구독 월요금은 2026-10-08의 별도 선택 조건 스냅샷입니다.",
+      "purchase_price": 2754000,
+      "purchase_price_status": "available",
+      "purchase_benefits": {
+        "payment_cards": [],
+        "installment_cards": [],
+        "simple_payment": [],
+        "additional": [],
+        "installment_notice": "카드별 할부·결제 자격은 이 수집에서 확인되지 않았습니다. 공식 구매 혜택에서 확인하세요.",
+        "member_price": 2754000,
+        "max_benefit_price": 2561300,
+        "coupon_name": null,
+        "coupon_discount": 0,
+        "settlement_discount": 192700,
+        "coupon_price": null,
+        "checked_at": "2026-10-13",
+        "source_url": "https://www.lge.co.kr/product/water-purifiers/wd723rk?modelId=MD10748848&pdpType=PURCHASE",
+        "notice": "공식 페이지에 표시된 회원가·쿠폰가·최대혜택가입니다. 앱전용 쿠폰은 앱·다운로드·적용 자격에 따라 달라집니다. 최대혜택가는 실제 결제액이 아니며 카드·추가혜택 조건을 확인해야 합니다."
+      }
+    },
+    {
+      "model_id": "WD724RE",
+      "display_name": "LG 퓨리케어 AI 오브제컬렉션 냉동얼음정수기",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10833833/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd724re?modelId=MD10833833&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "240 x 465 x 497 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": true,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": true,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD724RE-SPEC",
+          "title": "WD724RE 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd724re?modelId=MD10833833&pdpType=PURCHASE",
+          "model_id": "WD724RE",
+          "section": "스펙 / 냉온정수기(제빙기 겸용)",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD724RE",
+          "title": "WD724RE 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd724re?modelId=MD10833833&pdpType=PURCHASE",
+          "model_id": "WD724RE",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD724RE",
+          "title": "WD724RE 공식 공개 구매 가격·혜택",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd724re?modelId=MD10833833&pdpType=PURCHASE",
+          "checked_at": "2026-10-13",
+          "model_id": "WD724RE",
+          "section": "미로그인 공개 가격 표시"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 53900,
+      "price_checked_at": "2026-10-13",
+      "price_note": "선택 조건: 72개월 · 방문관리 6개월 주기. 기본 월요금 53,900원. 1회차 이용 요금이며, 2회차부터 변경됩니다. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원가·최대혜택가는 2026-10-13 미로그인 공개 표시값입니다. 현재 앱 쿠폰 미노출과 2026-10-08 이전 확인 기록을 구분합니다. 구독 월요금은 2026-10-08의 별도 선택 조건 스냅샷입니다.",
+      "purchase_price": 3043000,
+      "purchase_price_status": "available",
+      "purchase_benefits": {
+        "payment_cards": [],
+        "installment_cards": [],
+        "simple_payment": [],
+        "additional": [
+          {
+            "title": "2개 이상 구매 시 다품목할인",
+            "description": "상품·결합 조건 충족 여부는 해당 공식 안내에서 확인합니다. 현재 가격에서 자동 차감하지 않습니다.",
+            "url": "https://www.lge.co.kr/benefits/exhibitions/multiple-products"
+          },
+          {
+            "title": "가구 + 가전 함께 구매 시 결합할인",
+            "description": "상품·결합 조건 충족 여부는 해당 공식 안내에서 확인합니다. 현재 가격에서 자동 차감하지 않습니다.",
+            "url": "https://homestyle.lge.co.kr/exhibition/detail?exhibitionId=2510000167"
+          }
+        ],
+        "installment_notice": "카드별 할부·결제 자격은 이 수집에서 확인되지 않았습니다. 공식 구매 혜택에서 확인하세요.",
+        "member_price": 3043000,
+        "max_benefit_price": 2830000,
+        "coupon_name": null,
+        "coupon_discount": 0,
+        "settlement_discount": 213000,
+        "coupon_price": null,
+        "checked_at": "2026-10-13",
+        "source_url": "https://www.lge.co.kr/product/water-purifiers/wd724re?modelId=MD10833833&pdpType=PURCHASE",
+        "notice": "공식 페이지에 표시된 회원가·쿠폰가·최대혜택가입니다. 앱전용 쿠폰은 앱·다운로드·적용 자격에 따라 달라집니다. 최대혜택가는 실제 결제액이 아니며 카드·추가혜택 조건을 확인해야 합니다.",
+        "historical_coupon": {
+          "coupon_name": "[앱전용] LGE.COM 앱전용 쿠폰(18만원)",
+          "coupon_price": 2863000,
+          "coupon_discount": 180000,
+          "checked_at": "2026-10-08",
+          "source_url": "https://www.lge.co.kr/product/water-purifiers/wd724re?modelId=MD10833833&pdpType=PURCHASE"
+        }
+      }
+    },
+    {
+      "model_id": "WD724RH",
+      "display_name": "LG 퓨리케어 AI 오브제컬렉션 냉동얼음정수기",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10833832/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd724rh?modelId=MD10833832&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "240 x 465 x 497 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": true,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": true,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD724RH-SPEC",
+          "title": "WD724RH 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd724rh?modelId=MD10833832&pdpType=PURCHASE",
+          "model_id": "WD724RH",
+          "section": "스펙 / 냉온정수기(제빙기 겸용)",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD724RH",
+          "title": "WD724RH 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd724rh?modelId=MD10833832&pdpType=PURCHASE",
+          "model_id": "WD724RH",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD724RH",
+          "title": "WD724RH 공식 공개 구매 가격·혜택",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd724rh?modelId=MD10833832&pdpType=PURCHASE",
+          "checked_at": "2026-10-13",
+          "model_id": "WD724RH",
+          "section": "미로그인 공개 가격 표시"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 53900,
+      "price_checked_at": "2026-10-13",
+      "price_note": "선택 조건: 72개월 · 방문관리 6개월 주기. 기본 월요금 53,900원. 1회차 이용 요금이며, 2회차부터 변경됩니다. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원가·최대혜택가는 2026-10-13 미로그인 공개 표시값입니다. 현재 앱 쿠폰 미노출과 2026-10-08 이전 확인 기록을 구분합니다. 구독 월요금은 2026-10-08의 별도 선택 조건 스냅샷입니다.",
+      "purchase_price": 3043000,
+      "purchase_price_status": "available",
+      "purchase_benefits": {
+        "payment_cards": [],
+        "installment_cards": [],
+        "simple_payment": [],
+        "additional": [
+          {
+            "title": "2개 이상 구매 시 다품목할인",
+            "description": "상품·결합 조건 충족 여부는 해당 공식 안내에서 확인합니다. 현재 가격에서 자동 차감하지 않습니다.",
+            "url": "https://www.lge.co.kr/benefits/exhibitions/multiple-products"
+          },
+          {
+            "title": "가구 + 가전 함께 구매 시 결합할인",
+            "description": "상품·결합 조건 충족 여부는 해당 공식 안내에서 확인합니다. 현재 가격에서 자동 차감하지 않습니다.",
+            "url": "https://homestyle.lge.co.kr/exhibition/detail?exhibitionId=2510000167"
+          }
+        ],
+        "installment_notice": "카드별 할부·결제 자격은 이 수집에서 확인되지 않았습니다. 공식 구매 혜택에서 확인하세요.",
+        "member_price": 3043000,
+        "max_benefit_price": 2830000,
+        "coupon_name": null,
+        "coupon_discount": 0,
+        "settlement_discount": 213000,
+        "coupon_price": null,
+        "checked_at": "2026-10-13",
+        "source_url": "https://www.lge.co.kr/product/water-purifiers/wd724rh?modelId=MD10833832&pdpType=PURCHASE",
+        "notice": "공식 페이지에 표시된 회원가·쿠폰가·최대혜택가입니다. 앱전용 쿠폰은 앱·다운로드·적용 자격에 따라 달라집니다. 최대혜택가는 실제 결제액이 아니며 카드·추가혜택 조건을 확인해야 합니다.",
+        "historical_coupon": {
+          "coupon_name": "[앱전용] LGE.COM 앱전용 쿠폰(18만원)",
+          "coupon_price": 2863000,
+          "coupon_discount": 180000,
+          "checked_at": "2026-10-08",
+          "source_url": "https://www.lge.co.kr/product/water-purifiers/wd724rh?modelId=MD10833832&pdpType=PURCHASE"
+        }
+      }
+    },
+    {
+      "model_id": "WD724RK",
+      "display_name": "LG 퓨리케어 AI 오브제컬렉션 냉동얼음정수기",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10833834/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wd724rk?modelId=MD10833834&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "데스크형",
+        "본체 크기": "240 x 465 x 497 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": true,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": true,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WD724RK-SPEC",
+          "title": "WD724RK 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd724rk?modelId=MD10833834&pdpType=PURCHASE",
+          "model_id": "WD724RK",
+          "section": "스펙 / 냉온정수기(제빙기 겸용)",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD724RK",
+          "title": "WD724RK 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd724rk?modelId=MD10833834&pdpType=PURCHASE",
+          "model_id": "WD724RK",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WD724RK",
+          "title": "WD724RK 공식 공개 구매 가격·혜택",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wd724rk?modelId=MD10833834&pdpType=PURCHASE",
+          "checked_at": "2026-10-13",
+          "model_id": "WD724RK",
+          "section": "미로그인 공개 가격 표시"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 53900,
+      "price_checked_at": "2026-10-13",
+      "price_note": "선택 조건: 72개월 · 방문관리 6개월 주기. 기본 월요금 53,900원. 1회차 이용 요금이며, 2회차부터 변경됩니다. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원가·최대혜택가는 2026-10-13 미로그인 공개 표시값입니다. 현재 앱 쿠폰 미노출과 2026-10-08 이전 확인 기록을 구분합니다. 구독 월요금은 2026-10-08의 별도 선택 조건 스냅샷입니다.",
+      "purchase_price": 3043000,
+      "purchase_price_status": "available",
+      "purchase_benefits": {
+        "payment_cards": [],
+        "installment_cards": [],
+        "simple_payment": [],
+        "additional": [
+          {
+            "title": "2개 이상 구매 시 다품목할인",
+            "description": "상품·결합 조건 충족 여부는 해당 공식 안내에서 확인합니다. 현재 가격에서 자동 차감하지 않습니다.",
+            "url": "https://www.lge.co.kr/benefits/exhibitions/multiple-products"
+          },
+          {
+            "title": "가구 + 가전 함께 구매 시 결합할인",
+            "description": "상품·결합 조건 충족 여부는 해당 공식 안내에서 확인합니다. 현재 가격에서 자동 차감하지 않습니다.",
+            "url": "https://homestyle.lge.co.kr/exhibition/detail?exhibitionId=2510000167"
+          }
+        ],
+        "installment_notice": "카드별 할부·결제 자격은 이 수집에서 확인되지 않았습니다. 공식 구매 혜택에서 확인하세요.",
+        "member_price": 3043000,
+        "max_benefit_price": 2830000,
+        "coupon_name": null,
+        "coupon_discount": 0,
+        "settlement_discount": 213000,
+        "coupon_price": null,
+        "checked_at": "2026-10-13",
+        "source_url": "https://www.lge.co.kr/product/water-purifiers/wd724rk?modelId=MD10833834&pdpType=PURCHASE",
+        "notice": "공식 페이지에 표시된 회원가·쿠폰가·최대혜택가입니다. 앱전용 쿠폰은 앱·다운로드·적용 자격에 따라 달라집니다. 최대혜택가는 실제 결제액이 아니며 카드·추가혜택 조건을 확인해야 합니다.",
+        "historical_coupon": {
+          "coupon_name": "[앱전용] LGE.COM 앱전용 쿠폰(18만원)",
+          "coupon_price": 2863000,
+          "coupon_discount": 180000,
+          "checked_at": "2026-10-08",
+          "source_url": "https://www.lge.co.kr/product/water-purifiers/wd724rk?modelId=MD10833834&pdpType=PURCHASE"
+        }
+      }
+    },
+    {
+      "model_id": "WS511SH",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기 (슬림스탠드, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10646834/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/ws511sh?modelId=MD10646834&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "스탠드형",
+        "본체 크기": "260 x 1,158 x 467 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": null,
+        "직수관 고온살균": true,
+        "출수구 고온살균": false
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WS511SH-SPEC",
+          "title": "WS511SH 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/ws511sh?modelId=MD10646834&pdpType=PURCHASE",
+          "model_id": "WS511SH",
+          "section": "스펙 / 냉온정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WS511SH",
+          "title": "WS511SH 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/ws511sh?modelId=MD10646834&pdpType=PURCHASE",
+          "model_id": "WS511SH",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "purchase_price": 1365000,
+      "price_checked_at": "2026-10-08",
+      "price_note": " 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WS513SH",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기 (스탠드, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10646833/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/ws513sh?modelId=MD10646833&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "스탠드형",
+        "본체 크기": "360 x 1,257 x 462 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": null,
+        "직수관 고온살균": true,
+        "출수구 고온살균": false
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WS513SH-SPEC",
+          "title": "WS513SH 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/ws513sh?modelId=MD10646833&pdpType=PURCHASE",
+          "model_id": "WS513SH",
+          "section": "스펙 / 냉온정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WS513SH",
+          "title": "WS513SH 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/ws513sh?modelId=MD10646833&pdpType=PURCHASE",
+          "model_id": "WS513SH",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "purchase_price": 2316000,
+      "price_checked_at": "2026-10-08",
+      "price_note": " 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WU523ACB",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기 (빌트인, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10035828/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wu523acb?modelId=MD10035828&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "언더싱크형",
+        "본체 크기": "170 x 420 x 410 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": null,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WU523ACB-SPEC",
+          "title": "WU523ACB 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wu523acb?modelId=MD10035828&pdpType=PURCHASE",
+          "model_id": "WU523ACB",
+          "section": "스펙 / 냉온정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WU523ACB",
+          "title": "WU523ACB 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wu523acb?modelId=MD10035828&pdpType=PURCHASE",
+          "model_id": "WU523ACB",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "purchase_price": 1839000,
+      "price_checked_at": "2026-10-08",
+      "price_note": " 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WU523AWB",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기 (빌트인, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10035827/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wu523awb?modelId=MD10035827&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "언더싱크형",
+        "본체 크기": "170 x 420 x 410 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": false,
+        "ThinQ": true,
+        "음성 인식": null,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WU523AWB-SPEC",
+          "title": "WU523AWB 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wu523awb?modelId=MD10035827&pdpType=PURCHASE",
+          "model_id": "WU523AWB",
+          "section": "스펙 / 냉온정수기",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WU523AWB",
+          "title": "WU523AWB 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wu523awb?modelId=MD10035827&pdpType=PURCHASE",
+          "model_id": "WU523AWB",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "purchase_price": 1512000,
+      "price_checked_at": "2026-10-08",
+      "price_note": " 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WU823AS",
+      "display_name": "LG 퓨리케어 정수기(듀얼, 냉정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10017841/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wu823as?modelId=MD10017841&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "언더싱크형",
+        "본체 크기": "170 x 420 x 410 mm",
+        "냉수": true,
+        "온수": false,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": true,
+        "ThinQ": true,
+        "음성 인식": null,
+        "직수관 고온살균": true,
+        "출수구 고온살균": false
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WU823AS-SPEC",
+          "title": "WU823AS 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wu823as?modelId=MD10017841&pdpType=PURCHASE",
+          "model_id": "WU823AS",
+          "section": "스펙 / 냉정수기+세척수",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WU823AS",
+          "title": "WU823AS 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wu823as?modelId=MD10017841&pdpType=PURCHASE",
+          "model_id": "WU823AS",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "purchase_price": 1803000,
+      "price_checked_at": "2026-10-08",
+      "price_note": " 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WU923ABB",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(듀얼, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10017837/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wu923abb?modelId=MD10017837&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "언더싱크형",
+        "본체 크기": "170 x 420 x 410 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": true,
+        "ThinQ": true,
+        "음성 인식": false,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WU923ABB-SPEC",
+          "title": "WU923ABB 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wu923abb?modelId=MD10017837&pdpType=PURCHASE",
+          "model_id": "WU923ABB",
+          "section": "스펙 / 냉온정수기+세척수",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WU923ABB",
+          "title": "WU923ABB 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wu923abb?modelId=MD10017837&pdpType=PURCHASE",
+          "model_id": "WU923ABB",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "purchase_price": 2021000,
+      "price_checked_at": "2026-10-08",
+      "price_note": " 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WU923ACB",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(듀얼, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10017839/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wu923acb?modelId=MD10017839&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "언더싱크형",
+        "본체 크기": "170 x 420 x 410 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": true,
+        "ThinQ": true,
+        "음성 인식": false,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WU923ACB-SPEC",
+          "title": "WU923ACB 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wu923acb?modelId=MD10017839&pdpType=PURCHASE",
+          "model_id": "WU923ACB",
+          "section": "스펙 / 냉온정수기+세척수",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WU923ACB",
+          "title": "WU923ACB 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wu923acb?modelId=MD10017839&pdpType=PURCHASE",
+          "model_id": "WU923ACB",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "subscription_monthly_from": 36900,
+      "price_checked_at": "2026-10-08",
+      "price_note": "선택 조건: 72개월 · 자가관리 조건 확인 필요. 기본 월요금 36,900원. 1회차 이용 요금이며, 2회차부터 변경됩니다. 확정 견적이 아닌 수집일의 선택 조건입니다. 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price": 2021000,
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WU923ANB",
+      "display_name": "LG 퓨리케어 오브제컬렉션 정수기(듀얼, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10017836/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wu923anb?modelId=MD10017836&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "언더싱크형",
+        "본체 크기": "170 x 420 x 410 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": true,
+        "ThinQ": true,
+        "음성 인식": false,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WU923ANB-SPEC",
+          "title": "WU923ANB 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wu923anb?modelId=MD10017836&pdpType=PURCHASE",
+          "model_id": "WU923ANB",
+          "section": "스펙 / 냉온정수기+세척수",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WU923ANB",
+          "title": "WU923ANB 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wu923anb?modelId=MD10017836&pdpType=PURCHASE",
+          "model_id": "WU923ANB",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "purchase_price": 2021000,
+      "price_checked_at": "2026-10-08",
+      "price_note": " 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price_status": "available"
+    },
+    {
+      "model_id": "WU923AS",
+      "display_name": "LG 퓨리케어 정수기(듀얼, 냉온정)",
+      "image_url": "https://www.lge.co.kr/kr/images/water-purifiers/md10017840/gallery/medium01.jpg",
+      "product_url": "https://www.lge.co.kr/product/water-purifiers/wu923as?modelId=MD10017840&pdpType=PURCHASE",
+      "features": {
+        "설치 유형": "언더싱크형",
+        "본체 크기": "170 x 420 x 410 mm",
+        "냉수": true,
+        "온수": true,
+        "정수": true,
+        "얼음": false,
+        "클린세척수": true,
+        "ThinQ": true,
+        "음성 인식": false,
+        "직수관 고온살균": true,
+        "출수구 고온살균": true
+      },
+      "checked_at": "2026-10-08",
+      "is_demo": false,
+      "review_status": "active",
+      "sources": [
+        {
+          "document_id": "LG-MODEL-WU923AS-SPEC",
+          "title": "WU923AS 공식 상세 스펙",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wu923as?modelId=MD10017840&pdpType=PURCHASE",
+          "model_id": "WU923AS",
+          "section": "스펙 / 냉온정수기+세척수",
+          "checked_at": "2026-10-08"
+        },
+        {
+          "document_id": "LG-PURCHASE-PRICE-WU923AS",
+          "title": "WU923AS 공식 회원할인가",
+          "url": "https://www.lge.co.kr/product/water-purifiers/wu923as?modelId=MD10017840&pdpType=PURCHASE",
+          "model_id": "WU923AS",
+          "section": "구매 가격 · memberPrice",
+          "checked_at": "2026-10-08"
+        }
+      ],
+      "limitations": "공식 모델별 스펙 기준입니다. 재고·판매 가능 여부·관리 제공 조건은 주문 시 확인하며 미등록 사용 오류 절차를 추정하지 않습니다.",
+      "purchase_price": 1934000,
+      "price_checked_at": "2026-10-08",
+      "price_note": " 구매 회원할인가는 2026-10-08 공식 구매 페이지 표시값이며 쿠폰·최대혜택가와 구분합니다.",
+      "purchase_price_status": "available"
+    }
+  ]
+}

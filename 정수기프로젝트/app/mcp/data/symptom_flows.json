@@ -1,0 +1,82 @@
+{
+  "flows": [
+    {
+      "flow_id": "WATER-HOT",
+      "model_ids": [
+        "WD520VCT",
+        "WU923AWB"
+      ],
+      "symptom_terms": [
+        "온수가 안",
+        "온수 안",
+        "온수가 나오지"
+      ],
+      "next_steps": [
+        "온수 잠금·기능 설정 여부를 해당 모델 설명서에서 확인해 주세요.",
+        "연속으로 온수를 많이 사용했다면 잠시 기다린 뒤 증상 지속 여부를 확인해 주세요.",
+        "정상 설정에서도 지속되면 공식 서비스 점검을 문의해 주세요."
+      ],
+      "source_ids": [
+        "LG-SUPPORT-HOT"
+      ],
+      "source_url": "https://www.lge.co.kr/support/solutions-1442879972130",
+      "review_status": "active",
+      "checked_at": "2026-10-07",
+      "safety_notice": "고장 원인을 확정하거나 분해·수리를 안내하지 않습니다. 온수 화상·누수 전기 위험에 주의하세요.",
+      "limitations": "지원 모델의 일반 점검 질문만 제공합니다. 버튼 조작·필터 분해 방법은 모델 설명서를 별도 확인해야 합니다.",
+      "is_demo": false
+    },
+    {
+      "flow_id": "WATER-COLD",
+      "model_ids": [
+        "WD520VCT",
+        "WU923AWB"
+      ],
+      "symptom_terms": [
+        "냉수가 안",
+        "냉수 안",
+        "시원하지",
+        "냉수 미지근"
+      ],
+      "next_steps": [
+        "최근 연속 출수나 직수관 살균 여부를 확인해 주세요.",
+        "살균·연속 사용 직후의 일시적인 온도 변화인지 확인하고, 지속되면 점검을 문의해 주세요."
+      ],
+      "source_ids": [
+        "LG-SUPPORT-COLD"
+      ],
+      "source_url": "https://www.lge.co.kr/support/solutions-20151714984005",
+      "review_status": "active",
+      "checked_at": "2026-10-07",
+      "safety_notice": "고장 원인을 확정하거나 분해·수리를 안내하지 않습니다. 온수 화상·누수 전기 위험에 주의하세요.",
+      "limitations": "지원 모델의 일반 점검 질문만 제공합니다. 버튼 조작·필터 분해 방법은 모델 설명서를 별도 확인해야 합니다.",
+      "is_demo": false
+    },
+    {
+      "flow_id": "WATER-LEAK",
+      "model_ids": [
+        "WD520VCT",
+        "WU923AWB"
+      ],
+      "symptom_terms": [
+        "누수",
+        "물기",
+        "물이 고",
+        "새요"
+      ],
+      "next_steps": [
+        "제품 표면의 물기와 바닥에 반복해서 고이는 물을 구분해 주세요.",
+        "전기 부근에 물이 있거나 실제 누수가 의심되면 젖은 전기부를 만지거나 제품을 분해하지 말고 공식 서비스를 문의해 주세요."
+      ],
+      "source_ids": [
+        "LG-SUPPORT-LEAK"
+      ],
+      "source_url": "https://www.lge.co.kr/support/solutions-20153234878881",
+      "review_status": "active",
+      "checked_at": "2026-10-07",
+      "safety_notice": "고장 원인을 확정하거나 분해·수리를 안내하지 않습니다. 온수 화상·누수 전기 위험에 주의하세요.",
+      "limitations": "지원 모델의 일반 점검 질문만 제공합니다. 버튼 조작·필터 분해 방법은 모델 설명서를 별도 확인해야 합니다.",
+      "is_demo": false
+    }
+  ]
+}

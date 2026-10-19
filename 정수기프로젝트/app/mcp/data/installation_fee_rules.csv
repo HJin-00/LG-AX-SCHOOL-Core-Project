@@ -1,0 +1,15 @@
+﻿rule_id,model_id,work_type,amount,condition,source_id,source_url,source_section,checked_at,review_status
+WD520VCT-drill_artificial,WD520VCT,drill_artificial,0,타공 필요·인조대리석/아크릴/목재,LG-INSTALL-WD520VCT,https://www.lge.co.kr/product/care-solutions/water-purifiers/wd520vct,데스크 정수기 설치 비용 안내,2026-10-07,verified
+WD520VCT-drill_natural,WD520VCT,drill_natural,50000,타공 필요·천연대리석/칸스톤/엔지니어드스톤,LG-INSTALL-WD520VCT,https://www.lge.co.kr/product/care-solutions/water-purifiers/wd520vct,데스크 정수기 설치 비용 안내,2026-10-07,verified
+WD520VCT-pump,WD520VCT,pump,46000,수압 1.5kgf/cm² 이하·펌프 필요,LG-INSTALL-WD520VCT,https://www.lge.co.kr/product/care-solutions/water-purifiers/wd520vct,데스크 정수기 설치 비용 안내,2026-10-07,verified
+WD520VCT-breaker,WD520VCT,breaker,,전력 부족·차단기 신설 견적 필요,LG-INSTALL-WD520VCT,https://www.lge.co.kr/product/care-solutions/water-purifiers/wd520vct,데스크 정수기 설치 비용 안내,2026-10-07,needs_confirmation
+WD520VCT-drill_ceramic,WD520VCT,drill_ceramic,110000,세라믹 타공 필요,LG-INSTALL-WD520VCT,https://www.lge.co.kr/product/care-solutions/water-purifiers/wd520vct,데스크 정수기 설치 비용 안내,2026-10-07,verified
+WU923AWB-drill_artificial,WU923AWB,drill_artificial,0,타공 필요·인조대리석/아크릴/목재,LG-INSTALL-WU923AWB,https://www.lge.co.kr/product/care-solutions/water-purifiers/wu923awb,빌트인 정수기 설치 비용 안내,2026-10-07,verified
+WU923AWB-drill_natural,WU923AWB,drill_natural,100000,타공 필요·천연대리석/칸스톤/엔지니어드스톤,LG-INSTALL-WU923AWB,https://www.lge.co.kr/product/care-solutions/water-purifiers/wu923awb,빌트인 정수기 설치 비용 안내,2026-10-07,verified
+WU923AWB-pump,WU923AWB,pump,46000,수압 1.5kgf/cm² 이하·펌프 필요,LG-INSTALL-WU923AWB,https://www.lge.co.kr/product/care-solutions/water-purifiers/wu923awb,빌트인 정수기 설치 비용 안내,2026-10-07,verified
+WU923AWB-breaker,WU923AWB,breaker,,전력 부족·차단기 신설 견적 필요,LG-INSTALL-WU923AWB,https://www.lge.co.kr/product/care-solutions/water-purifiers/wu923awb,빌트인 정수기 설치 비용 안내,2026-10-07,needs_confirmation
+WU923AWB-drill_ceramic,WU923AWB,drill_ceramic,,제품 비용표와 설치가이드 영상의 가능 여부 상충; 현장 확인,LG-INSTALL-WU923AWB,https://www.lge.co.kr/product/care-solutions/water-purifiers/wu923awb,빌트인 정수기 설치 비용 안내,2026-10-07,needs_confirmation
+WU923AWB-new_outlet,WU923AWB,new_outlet,38000,하부장 콘센트 신설 필요; 타공 별도,LG-INSTALL-WU923AWB,https://www.lge.co.kr/product/care-solutions/water-purifiers/wu923awb,빌트인 정수기 설치 비용 안내,2026-10-07,verified
+WU923AWB-drill_natural_outlet,WU923AWB,drill_natural_outlet,50000,천연 상판·외부 콘센트 연결 추가 타공 필요,LG-INSTALL-WU923AWB,https://www.lge.co.kr/product/care-solutions/water-purifiers/wu923awb,빌트인 정수기 설치 비용 안내,2026-10-07,verified
+WU923AWB-drill_natural_water,WU923AWB,drill_natural_water,50000,천연 상판·외부 원수 연결 추가 타공 필요,LG-INSTALL-WU923AWB,https://www.lge.co.kr/product/care-solutions/water-purifiers/wu923awb,빌트인 정수기 설치 비용 안내,2026-10-07,verified
+WU923AWB-thick_sink,WU923AWB,thick_sink,70000,3T 이상 싱크볼 타공 필요,LG-INSTALL-WU923AWB,https://www.lge.co.kr/product/care-solutions/water-purifiers/wu923awb,빌트인 정수기 설치 비용 안내,2026-10-07,verified

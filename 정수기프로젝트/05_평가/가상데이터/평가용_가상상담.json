@@ -1,0 +1,45 @@
+{
+  "주의": "제품·증상 모두 기술평가용 가상 입력. 실제 LG 모델 사양·조치 아님. 검수 공식 문서 연결 전 고객 답변에 사용 금지.",
+  "products": [
+    {
+      "id": "DEMO-P1",
+      "features": {
+        "hot_water": true,
+        "cold_water": true,
+        "ice": false
+      },
+      "size": "미확인",
+      "source_id": "SYNTH-PRODUCT"
+    },
+    {
+      "id": "DEMO-P2",
+      "features": {
+        "hot_water": false,
+        "cold_water": true,
+        "ice": true
+      },
+      "size": "미확인",
+      "source_id": "SYNTH-PRODUCT"
+    }
+  ],
+  "symptoms": [
+    {
+      "id": "ON_TEMP",
+      "meaning": "온수가 나오지 않음",
+      "required_fields": [
+        "model_id",
+        "lock_status"
+      ],
+      "expected_next_step": "검수 문서가 적용되는 경우에만 다음 조치; 미검수 시 공식 지원 경로"
+    },
+    {
+      "id": "WATER_POOL",
+      "meaning": "바닥에 물이 고임",
+      "required_fields": [
+        "model_id",
+        "continuous_after_wipe"
+      ],
+      "expected_next_step": "안전 우선; 지속 시 공식 지원 경로"
+    }
+  ]
+}

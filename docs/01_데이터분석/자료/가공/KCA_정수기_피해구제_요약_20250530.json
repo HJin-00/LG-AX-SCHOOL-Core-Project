@@ -1,0 +1,26 @@
+{
+  "source_title": "정수기 렌탈 계약 시 해지비용 꼼꼼히 확인하세요",
+  "source_url": "https://www.kca.go.kr/home/sub.do?menukey=4005&mode=view&no=1003878293",
+  "local_pdf": "정수기프로젝트/01_데이터분석/자료/원본/피해예방/KCA_정수기렌탈_피해예방주의보_20250530.pdf",
+  "published_at": "2025-05-30",
+  "extracted_at": "2026-09-29",
+  "period": "2022-01~2025-03",
+  "population": "한국소비자원 정수기 렌탈 관련 피해구제 신청; 1372 품목별 상담건수와 다른 모집단",
+  "total_cases": 1462,
+  "source_page": 3,
+  "reasons": [
+    {"category": "계약", "cases": 823},
+    {"category": "품질·AS", "cases": 471},
+    {"category": "부당행위", "cases": 96},
+    {"category": "가격·요금", "cases": 21},
+    {"category": "안전", "cases": 19},
+    {"category": "표시·약관", "cases": 17},
+    {"category": "기타", "cases": 15}
+  ],
+  "contract_detail": [
+    {"category": "계약해지·위약금", "cases": 503},
+    {"category": "계약불이행", "cases": 277},
+    {"category": "기타", "cases": 43}
+  ],
+  "interpretation_warning": "피해구제 신청의 사유별 비율이다. 일반 고객 문의 비중이나 LG전자 고객 비중으로 사용하지 않는다."
+}

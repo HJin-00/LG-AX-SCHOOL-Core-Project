@@ -1,0 +1,29 @@
+{
+  "checked_at": "2026-09-29",
+  "selection": "추천 시연을 위한 서로 다른 설치 형태의 공식 상세 페이지 2개를 선정. 전체 LG 라인업이나 판매 가능 상태를 대표하지 않음.",
+  "model_comparison": [
+    {
+      "model_id": "WD520VCT",
+      "product_name": "LG 퓨리케어 오브제컬렉션 정수기(맞춤 lite, 냉온정)",
+      "type": "데스크형",
+      "water_modes": ["냉수", "온수", "정수"],
+      "body_size_w_h_d_mm": [168, 398, 400],
+      "portion_ml": [120, 250, 500, 1000],
+      "cleaning_water": "공식 상세 페이지 스펙에 해당 항목 확인되지 않음",
+      "source_url": "https://www.lge.co.kr/product/care-solutions/water-purifiers/wd520vct",
+      "source_section": "스펙 요약 정보 > 기본 사양·정수성능 및 부가기능"
+    },
+    {
+      "model_id": "WU923AWB",
+      "product_name": "LG 퓨리케어 오브제컬렉션 정수기(듀얼, 냉온정)",
+      "type": "언더싱크형",
+      "water_modes": ["냉수", "온수", "정수"],
+      "body_size_w_h_d_mm": [170, 420, 410],
+      "portion_ml": [120, 250, 500],
+      "cleaning_water": "공식 상세 페이지 스펙에 클린세척수(전해수) O로 표시",
+      "source_url": "https://www.lge.co.kr/product/care-solutions/water-purifiers/wu923awb",
+      "source_section": "스펙 요약 정보 > 기본 사양·정수성능 및 부가기능"
+    }
+  ],
+  "usage_warning": "설치 적합성은 수압·상판·급배수·전원 등 현장 확인이 필요하다. 가격·재고·프로모션·계약 조건은 이 비교에 포함하지 않는다."
+}

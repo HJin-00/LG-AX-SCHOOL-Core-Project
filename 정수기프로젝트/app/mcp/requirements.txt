@@ -1,0 +1,6 @@
+fastmcp==3.4.7
+
+PyMySQL[rsa]==1.1.2
+python-dotenv==1.2.4
+
+reportlab==4.4.4

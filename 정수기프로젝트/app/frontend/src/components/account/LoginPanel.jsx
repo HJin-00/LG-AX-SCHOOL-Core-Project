@@ -1,0 +1,7 @@
+import React,{useState}from 'react';
+import{useCustomerProduct}from '../../context/CustomerProductContext.jsx';
+export default function LoginPanel({onClose,onSuccess}){
+ const{login}=useCustomerProduct();const[user,setUser]=useState('');const[password,setPassword]=useState('');const[busy,setBusy]=useState(false);const[error,setError]=useState('');
+ async function submit(e){e.preventDefault();setBusy(true);setError('');try{await login(user,password);setPassword('');onSuccess?.();}catch(e){setError(e.message);setPassword('');}finally{setBusy(false);}}
+ return <div className="login-overlay"><section className="login-panel" onKeyDown={e=>{if(e.key==='Escape'&&!busy)onClose?.();}} role="dialog" aria-modal="true" aria-labelledby="login-title"><button className="login-close" onClick={onClose} disabled={busy} aria-label="로그인 닫기">×</button><span className="picker-eyebrow">내 계약을 안전하게</span><h2 id="login-title">로그인이 필요한 서비스입니다</h2><p>일반 상담은 로그인 없이 이용할 수 있어요.</p><form onSubmit={submit}><label>아이디<input required autoComplete="username" maxLength={64} autoFocus value={user} onChange={e=>setUser(e.target.value)} disabled={busy}/></label><label>비밀번호<input required autoComplete="current-password" type="password" maxLength={128} value={password} onChange={e=>setPassword(e.target.value)} disabled={busy}/></label>{error&&<p role="alert" className="error-message">{error}</p>}<button className="ui-button primary" disabled={busy} type="submit">{busy?'확인 중…':'로그인'}</button></form></section></div>;
+}

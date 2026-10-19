@@ -1,0 +1,111 @@
+{
+  "scope": "기존 Python 함수 직접 호출, n8n/HTTP/LLM/동의 권한/서비스 평가 아님",
+  "fixed_test_date": "2026-10-02",
+  "rule": "SYNTH-01 합성 전용",
+  "checks": [
+    {
+      "check": "before",
+      "fixture": "DEMO-A",
+      "date": "2026-08-30",
+      "expected_total": 170000,
+      "actual_total": 170000,
+      "passed": true
+    },
+    {
+      "check": "mandatory_on",
+      "fixture": "DEMO-B",
+      "date": "2026-08-31",
+      "expected_total": 170000,
+      "actual_total": 170000,
+      "passed": true
+    },
+    {
+      "check": "mandatory_after",
+      "fixture": "DEMO-A",
+      "date": "2026-09-01",
+      "expected_total": 70000,
+      "actual_total": 70000,
+      "passed": true
+    },
+    {
+      "check": "contract_on",
+      "fixture": "DEMO-A",
+      "date": "2028-08-31",
+      "expected_total": 70000,
+      "actual_total": 70000,
+      "passed": true
+    },
+    {
+      "check": "contract_after",
+      "fixture": "DEMO-A",
+      "date": "2028-09-01",
+      "expected_total": 0,
+      "actual_total": 0,
+      "passed": true
+    },
+    {
+      "check": "today",
+      "fixture": "DEMO-A",
+      "date": "2026-10-02",
+      "expected_total": 70000,
+      "actual_total": 70000,
+      "passed": true
+    },
+    {
+      "check": "arrears",
+      "fixture": "DEMO-E",
+      "date": "2026-10-02",
+      "expected_total": 100000,
+      "actual_total": 100000,
+      "passed": true
+    },
+    {
+      "check": "unknown",
+      "fixture": "DEMO-D",
+      "date": "2026-10-02",
+      "expected_total": null,
+      "actual_total": null,
+      "passed": true
+    },
+    {
+      "check": "compare1",
+      "fixture": "DEMO-A",
+      "date": "2026-08-31",
+      "expected_total": 170000,
+      "actual_total": 170000,
+      "passed": true
+    },
+    {
+      "check": "compare2",
+      "fixture": "DEMO-A",
+      "date": "2026-09-01",
+      "expected_total": 70000,
+      "actual_total": 70000,
+      "passed": true
+    },
+    {
+      "check": "invalid_date",
+      "expected_code": "INVALID_DATE",
+      "actual_code": "INVALID_DATE",
+      "passed": true
+    },
+    {
+      "check": "invalid_period",
+      "expected_code": "INVALID_PERIOD",
+      "actual_code": "INVALID_PERIOD",
+      "passed": true
+    },
+    {
+      "check": "answer_fields_hidden_DEMO-A",
+      "passed": true
+    },
+    {
+      "check": "answer_fields_hidden_DEMO-D",
+      "passed": true
+    },
+    {
+      "check": "no_rule_no_real_cost",
+      "passed": true
+    }
+  ]
+}
